@@ -49,6 +49,11 @@
         "expiration_date": "13-aug-2022",
         "state": "future"
     },
+    "a-msedge.net": {
+        "epoch": 1614988800.0,
+        "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
     "a1dev.com": {
         "epoch": 1781308800.0,
         "expiration_date": "13-jun-2026",
@@ -172,6 +177,186 @@
     "ads2dc.com": {
         "epoch": 1612051200.0,
         "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
+    "adsafeprotected.com": {
+        "epoch": 1680307200.0,
+        "expiration_date": "01-apr-2023",
+        "state": "future"
+    },
+    "adsbing.com": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
+    "adsflame.com": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "adsmanager.net": {
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
+        "state": "future"
+    },
+    "adswizz.com": {
+        "epoch": 1858204800.0,
+        "expiration_date": "19-nov-2028",
+        "state": "future"
+    },
+    "adszx.pro": {
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
+        "state": "future"
+    },
+    "adtekmedia.com": {
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
+        "state": "future"
+    },
+    "adultsense.net": {
+        "epoch": 1593475200.0,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
+    "adzfun.info": {
+        "epoch": 1593388800.0,
+        "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
+    "adzincome.in": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
+        "state": "past"
+    },
+    "adzmaza.in": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
+    "adzmediatracking.com": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
+    "adzsx.pro": {
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
+        "state": "future"
+    },
+    "adztracking.com": {
+        "epoch": 1618704000.0,
+        "expiration_date": "18-apr-2021",
+        "state": "future"
+    },
+    "agreeableprice.com": {
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
+        "state": "future"
+    },
+    "aheadday.com": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
+        "state": "future"
+    },
+    "ajkzd9h.com": {
+        "epoch": 1615248000.0,
+        "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "allday.in.ua": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "alliance4media.com": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
+    "amazon-adsystem.com": {
+        "epoch": 1726444800.0,
+        "expiration_date": "16-sep-2024",
+        "state": "future"
+    },
+    "ambitiousagreement.com": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
+        "state": "future"
+    },
+    "anekbook.ru": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
+        "state": "future"
+    },
+    "anonymous-net.com": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
+    "antipaucity.com": {
+        "epoch": 1677024000.0,
+        "expiration_date": "22-feb-2023",
+        "state": "future"
+    },
+    "anxiousapples.com": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "app-measurement.com": {
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "state": "future"
+    },
+    "app7hightree.com": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
+    "appboy-images.com": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
+    "appboy.com": {
+        "epoch": 1696550400.0,
+        "expiration_date": "06-oct-2023",
+        "state": "future"
+    },
+    "appsee.com": {
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
+        "state": "future"
+    },
+    "appsflyer.com": {
+        "epoch": 1904515200.0,
+        "expiration_date": "09-may-2030",
+        "state": "future"
+    },
+    "apptrackit.com": {
+        "epoch": 1644451200.0,
+        "expiration_date": "10-feb-2022",
+        "state": "future"
+    },
+    "apptrknow.com": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "appvirality.com": {
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
+        "state": "future"
+    },
+    "apyoth.com": {
+        "epoch": 1593907200.0,
+        "expiration_date": "05-jul-2020",
+        "state": "future"
+    },
+    "ar1nvz5.com": {
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
         "state": "future"
     }
 }
