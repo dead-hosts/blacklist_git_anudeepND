@@ -1,9 +1,13 @@
-# About [repository-name]
+# About blacklist_git_anudeepND
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/dead-hosts/blacklist_git_anudeepND.svg?branch=master)](https://travis-ci.org/dead-hosts/blacklist_git_anudeepND)
 
 ```
-[description]
+Host file to block ads, tracking and more! Updated daily
+Homepage: https://github.com/anudeepND/blacklist
+Licence: https://github.com/anudeepND/blacklist/blob/master/LICENSE
+Title: Anudeep's Blacklist
+Hosts contributed by Anudeep <anudeep@protonmail.com>
 ```
 
 --------------------------------------------------------------------------------
