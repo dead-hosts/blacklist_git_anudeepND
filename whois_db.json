@@ -29,6 +29,11 @@
         "expiration_date": "24-feb-2021",
         "state": "future"
     },
+    "33across.com": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
     "4jnzhl0d0.com": {
         "epoch": 1614124800.0,
         "expiration_date": "24-feb-2021",
@@ -132,6 +137,11 @@
     "adglaze.com": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
+    "adhigh.net": {
+        "epoch": 1760486400.0,
+        "expiration_date": "15-oct-2025",
         "state": "future"
     },
     "adiode.com": {
@@ -2462,6 +2472,26 @@
     "yotpo.com": {
         "epoch": 1618531200.0,
         "expiration_date": "16-apr-2021",
+        "state": "future"
+    },
+    "zbwp6ghm.com": {
+        "epoch": 1645660800.0,
+        "expiration_date": "24-feb-2022",
+        "state": "future"
+    },
+    "zdbb.net": {
+        "epoch": 1634601600.0,
+        "expiration_date": "19-oct-2021",
+        "state": "future"
+    },
+    "zlp6s.pw": {
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
+        "state": "future"
+    },
+    "zm232.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     }
 }
