@@ -12761,6 +12761,13 @@
             "last_retested_at_iso": "2020-06-12T16:27:54.329772",
             "status": "INACTIVE"
         },
+        "console.actionx.com": {
+            "included_at_epoch": 1592010719.889477,
+            "included_at_iso": "2020-06-13T01:11:59.889477",
+            "last_retested_at_epoch": 1592010719.889477,
+            "last_retested_at_iso": "2020-06-13T01:11:59.889477",
+            "status": "INACTIVE"
+        },
         "console.adsnative.com": {
             "included_at_epoch": 1591979274.293833,
             "included_at_iso": "2020-06-12T16:27:54.293833",
@@ -17108,6 +17115,62 @@
             "last_retested_at_iso": "2020-06-13T00:54:38.343818",
             "status": "INACTIVE"
         },
+        "f6-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010691.255416,
+            "included_at_iso": "2020-06-13T01:11:31.255416",
+            "last_retested_at_epoch": 1592010691.255416,
+            "last_retested_at_iso": "2020-06-13T01:11:31.255416",
+            "status": "INACTIVE"
+        },
+        "f6-us-va.adhigh.net": {
+            "included_at_epoch": 1592010691.348565,
+            "included_at_iso": "2020-06-13T01:11:31.348565",
+            "last_retested_at_epoch": 1592010691.348565,
+            "last_retested_at_iso": "2020-06-13T01:11:31.348565",
+            "status": "INACTIVE"
+        },
+        "f7-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010691.454682,
+            "included_at_iso": "2020-06-13T01:11:31.454682",
+            "last_retested_at_epoch": 1592010691.454682,
+            "last_retested_at_iso": "2020-06-13T01:11:31.454682",
+            "status": "INACTIVE"
+        },
+        "f7-us-va.adhigh.net": {
+            "included_at_epoch": 1592010691.575358,
+            "included_at_iso": "2020-06-13T01:11:31.575358",
+            "last_retested_at_epoch": 1592010691.575358,
+            "last_retested_at_iso": "2020-06-13T01:11:31.575358",
+            "status": "INACTIVE"
+        },
+        "f8-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010691.665887,
+            "included_at_iso": "2020-06-13T01:11:31.665887",
+            "last_retested_at_epoch": 1592010691.665887,
+            "last_retested_at_iso": "2020-06-13T01:11:31.665887",
+            "status": "INACTIVE"
+        },
+        "f8-us-va.adhigh.net": {
+            "included_at_epoch": 1592010691.755881,
+            "included_at_iso": "2020-06-13T01:11:31.755881",
+            "last_retested_at_epoch": 1592010691.755881,
+            "last_retested_at_iso": "2020-06-13T01:11:31.755881",
+            "status": "INACTIVE"
+        },
+        "f9-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010691.863386,
+            "included_at_iso": "2020-06-13T01:11:31.863386",
+            "last_retested_at_epoch": 1592010691.863386,
+            "last_retested_at_iso": "2020-06-13T01:11:31.863386",
+            "status": "INACTIVE"
+        },
+        "f9-us-va.adhigh.net": {
+            "included_at_epoch": 1592010692.044067,
+            "included_at_iso": "2020-06-13T01:11:32.044067",
+            "last_retested_at_epoch": 1592010692.044067,
+            "last_retested_at_iso": "2020-06-13T01:11:32.044067",
+            "status": "INACTIVE"
+        },
         "facebook.magnetic.com": {
             "included_at_epoch": 1591980794.315822,
             "included_at_iso": "2020-06-12T16:53:14.315822",
@@ -17932,6 +17995,216 @@
             "included_at_iso": "2020-06-12T17:19:31.559659",
             "last_retested_at_epoch": 1591982371.559659,
             "last_retested_at_iso": "2020-06-12T17:19:31.559659",
+            "status": "INACTIVE"
+        },
+        "ft1-de.adhigh.net": {
+            "included_at_epoch": 1592010691.953534,
+            "included_at_iso": "2020-06-13T01:11:31.953534",
+            "last_retested_at_epoch": 1592010691.953534,
+            "last_retested_at_iso": "2020-06-13T01:11:31.953534",
+            "status": "INACTIVE"
+        },
+        "ft1-hk.adhigh.net": {
+            "included_at_epoch": 1592010692.222727,
+            "included_at_iso": "2020-06-13T01:11:32.222727",
+            "last_retested_at_epoch": 1592010692.222727,
+            "last_retested_at_iso": "2020-06-13T01:11:32.222727",
+            "status": "INACTIVE"
+        },
+        "ft1-us.adhigh.net": {
+            "included_at_epoch": 1592010692.401098,
+            "included_at_iso": "2020-06-13T01:11:32.401098",
+            "last_retested_at_epoch": 1592010692.401098,
+            "last_retested_at_iso": "2020-06-13T01:11:32.401098",
+            "status": "INACTIVE"
+        },
+        "ft10-us.adhigh.net": {
+            "included_at_epoch": 1592010692.312287,
+            "included_at_iso": "2020-06-13T01:11:32.312287",
+            "last_retested_at_epoch": 1592010692.312287,
+            "last_retested_at_iso": "2020-06-13T01:11:32.312287",
+            "status": "INACTIVE"
+        },
+        "ft11-us.adhigh.net": {
+            "included_at_epoch": 1592010692.580911,
+            "included_at_iso": "2020-06-13T01:11:32.580911",
+            "last_retested_at_epoch": 1592010692.580911,
+            "last_retested_at_iso": "2020-06-13T01:11:32.580911",
+            "status": "INACTIVE"
+        },
+        "ft12-us.adhigh.net": {
+            "included_at_epoch": 1592010692.490702,
+            "included_at_iso": "2020-06-13T01:11:32.490702",
+            "last_retested_at_epoch": 1592010692.490702,
+            "last_retested_at_iso": "2020-06-13T01:11:32.490702",
+            "status": "INACTIVE"
+        },
+        "ft13-us.adhigh.net": {
+            "included_at_epoch": 1592010692.758662,
+            "included_at_iso": "2020-06-13T01:11:32.758662",
+            "last_retested_at_epoch": 1592010692.758662,
+            "last_retested_at_iso": "2020-06-13T01:11:32.758662",
+            "status": "INACTIVE"
+        },
+        "ft14-us.adhigh.net": {
+            "included_at_epoch": 1592010692.669947,
+            "included_at_iso": "2020-06-13T01:11:32.669947",
+            "last_retested_at_epoch": 1592010692.669947,
+            "last_retested_at_iso": "2020-06-13T01:11:32.669947",
+            "status": "INACTIVE"
+        },
+        "ft15-us.adhigh.net": {
+            "included_at_epoch": 1592010692.847811,
+            "included_at_iso": "2020-06-13T01:11:32.847811",
+            "last_retested_at_epoch": 1592010692.847811,
+            "last_retested_at_iso": "2020-06-13T01:11:32.847811",
+            "status": "INACTIVE"
+        },
+        "ft16-us.adhigh.net": {
+            "included_at_epoch": 1592010692.936862,
+            "included_at_iso": "2020-06-13T01:11:32.936862",
+            "last_retested_at_epoch": 1592010692.936862,
+            "last_retested_at_iso": "2020-06-13T01:11:32.936862",
+            "status": "INACTIVE"
+        },
+        "ft17-us.adhigh.net": {
+            "included_at_epoch": 1592010693.115429,
+            "included_at_iso": "2020-06-13T01:11:33.115429",
+            "last_retested_at_epoch": 1592010693.115429,
+            "last_retested_at_iso": "2020-06-13T01:11:33.115429",
+            "status": "INACTIVE"
+        },
+        "ft18-us.adhigh.net": {
+            "included_at_epoch": 1592010693.02597,
+            "included_at_iso": "2020-06-13T01:11:33.025970",
+            "last_retested_at_epoch": 1592010693.02597,
+            "last_retested_at_iso": "2020-06-13T01:11:33.025970",
+            "status": "INACTIVE"
+        },
+        "ft2-de.adhigh.net": {
+            "included_at_epoch": 1592010693.206011,
+            "included_at_iso": "2020-06-13T01:11:33.206011",
+            "last_retested_at_epoch": 1592010693.206011,
+            "last_retested_at_iso": "2020-06-13T01:11:33.206011",
+            "status": "INACTIVE"
+        },
+        "ft2-hk.adhigh.net": {
+            "included_at_epoch": 1592010693.47469,
+            "included_at_iso": "2020-06-13T01:11:33.474690",
+            "last_retested_at_epoch": 1592010693.47469,
+            "last_retested_at_iso": "2020-06-13T01:11:33.474690",
+            "status": "INACTIVE"
+        },
+        "ft2-us.adhigh.net": {
+            "included_at_epoch": 1592010693.38496,
+            "included_at_iso": "2020-06-13T01:11:33.384960",
+            "last_retested_at_epoch": 1592010693.38496,
+            "last_retested_at_iso": "2020-06-13T01:11:33.384960",
+            "status": "INACTIVE"
+        },
+        "ft3-de.adhigh.net": {
+            "included_at_epoch": 1592010693.563902,
+            "included_at_iso": "2020-06-13T01:11:33.563902",
+            "last_retested_at_epoch": 1592010693.563902,
+            "last_retested_at_iso": "2020-06-13T01:11:33.563902",
+            "status": "INACTIVE"
+        },
+        "ft3-hk.adhigh.net": {
+            "included_at_epoch": 1592010693.74289,
+            "included_at_iso": "2020-06-13T01:11:33.742890",
+            "last_retested_at_epoch": 1592010693.74289,
+            "last_retested_at_iso": "2020-06-13T01:11:33.742890",
+            "status": "INACTIVE"
+        },
+        "ft3-us.adhigh.net": {
+            "included_at_epoch": 1592010693.832569,
+            "included_at_iso": "2020-06-13T01:11:33.832569",
+            "last_retested_at_epoch": 1592010693.832569,
+            "last_retested_at_iso": "2020-06-13T01:11:33.832569",
+            "status": "INACTIVE"
+        },
+        "ft4-de.adhigh.net": {
+            "included_at_epoch": 1592010693.922515,
+            "included_at_iso": "2020-06-13T01:11:33.922515",
+            "last_retested_at_epoch": 1592010693.922515,
+            "last_retested_at_iso": "2020-06-13T01:11:33.922515",
+            "status": "INACTIVE"
+        },
+        "ft4-hk.adhigh.net": {
+            "included_at_epoch": 1592010694.020804,
+            "included_at_iso": "2020-06-13T01:11:34.020804",
+            "last_retested_at_epoch": 1592010694.020804,
+            "last_retested_at_iso": "2020-06-13T01:11:34.020804",
+            "status": "INACTIVE"
+        },
+        "ft4-us.adhigh.net": {
+            "included_at_epoch": 1592010694.201107,
+            "included_at_iso": "2020-06-13T01:11:34.201107",
+            "last_retested_at_epoch": 1592010694.201107,
+            "last_retested_at_iso": "2020-06-13T01:11:34.201107",
+            "status": "INACTIVE"
+        },
+        "ft5-de.adhigh.net": {
+            "included_at_epoch": 1592010694.110876,
+            "included_at_iso": "2020-06-13T01:11:34.110876",
+            "last_retested_at_epoch": 1592010694.110876,
+            "last_retested_at_iso": "2020-06-13T01:11:34.110876",
+            "status": "INACTIVE"
+        },
+        "ft5-us.adhigh.net": {
+            "included_at_epoch": 1592010694.381043,
+            "included_at_iso": "2020-06-13T01:11:34.381043",
+            "last_retested_at_epoch": 1592010694.381043,
+            "last_retested_at_iso": "2020-06-13T01:11:34.381043",
+            "status": "INACTIVE"
+        },
+        "ft6-de.adhigh.net": {
+            "included_at_epoch": 1592010694.291401,
+            "included_at_iso": "2020-06-13T01:11:34.291401",
+            "last_retested_at_epoch": 1592010694.291401,
+            "last_retested_at_iso": "2020-06-13T01:11:34.291401",
+            "status": "INACTIVE"
+        },
+        "ft6-us.adhigh.net": {
+            "included_at_epoch": 1592010694.470803,
+            "included_at_iso": "2020-06-13T01:11:34.470803",
+            "last_retested_at_epoch": 1592010694.470803,
+            "last_retested_at_iso": "2020-06-13T01:11:34.470803",
+            "status": "INACTIVE"
+        },
+        "ft7-de.adhigh.net": {
+            "included_at_epoch": 1592010694.561038,
+            "included_at_iso": "2020-06-13T01:11:34.561038",
+            "last_retested_at_epoch": 1592010694.561038,
+            "last_retested_at_iso": "2020-06-13T01:11:34.561038",
+            "status": "INACTIVE"
+        },
+        "ft7-us.adhigh.net": {
+            "included_at_epoch": 1592010694.740231,
+            "included_at_iso": "2020-06-13T01:11:34.740231",
+            "last_retested_at_epoch": 1592010694.740231,
+            "last_retested_at_iso": "2020-06-13T01:11:34.740231",
+            "status": "INACTIVE"
+        },
+        "ft8-de.adhigh.net": {
+            "included_at_epoch": 1592010694.650726,
+            "included_at_iso": "2020-06-13T01:11:34.650726",
+            "last_retested_at_epoch": 1592010694.650726,
+            "last_retested_at_iso": "2020-06-13T01:11:34.650726",
+            "status": "INACTIVE"
+        },
+        "ft8-us.adhigh.net": {
+            "included_at_epoch": 1592010694.829885,
+            "included_at_iso": "2020-06-13T01:11:34.829885",
+            "last_retested_at_epoch": 1592010694.829885,
+            "last_retested_at_iso": "2020-06-13T01:11:34.829885",
+            "status": "INACTIVE"
+        },
+        "ft9-us.adhigh.net": {
+            "included_at_epoch": 1592010694.919329,
+            "included_at_iso": "2020-06-13T01:11:34.919329",
+            "last_retested_at_epoch": 1592010694.919329,
+            "last_retested_at_iso": "2020-06-13T01:11:34.919329",
             "status": "INACTIVE"
         },
         "fu8zz.6hqk9cjhg.bapb.gdn": {
@@ -24787,6 +25060,650 @@
             "last_retested_at_iso": "2020-06-12T20:44:09.388682",
             "status": "INACTIVE"
         },
+        "ivid-f1-hk.adhigh.net": {
+            "included_at_epoch": 1592010695.060218,
+            "included_at_iso": "2020-06-13T01:11:35.060218",
+            "last_retested_at_epoch": 1592010695.060218,
+            "last_retested_at_iso": "2020-06-13T01:11:35.060218",
+            "status": "INACTIVE"
+        },
+        "ivid-f1-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010695.151115,
+            "included_at_iso": "2020-06-13T01:11:35.151115",
+            "last_retested_at_epoch": 1592010695.151115,
+            "last_retested_at_iso": "2020-06-13T01:11:35.151115",
+            "status": "INACTIVE"
+        },
+        "ivid-f1-us-va.adhigh.net": {
+            "included_at_epoch": 1592010695.241322,
+            "included_at_iso": "2020-06-13T01:11:35.241322",
+            "last_retested_at_epoch": 1592010695.241322,
+            "last_retested_at_iso": "2020-06-13T01:11:35.241322",
+            "status": "INACTIVE"
+        },
+        "ivid-f10-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010695.348767,
+            "included_at_iso": "2020-06-13T01:11:35.348767",
+            "last_retested_at_epoch": 1592010695.348767,
+            "last_retested_at_iso": "2020-06-13T01:11:35.348767",
+            "status": "INACTIVE"
+        },
+        "ivid-f10-us-va.adhigh.net": {
+            "included_at_epoch": 1592010695.455441,
+            "included_at_iso": "2020-06-13T01:11:35.455441",
+            "last_retested_at_epoch": 1592010695.455441,
+            "last_retested_at_iso": "2020-06-13T01:11:35.455441",
+            "status": "INACTIVE"
+        },
+        "ivid-f11-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010695.636569,
+            "included_at_iso": "2020-06-13T01:11:35.636569",
+            "last_retested_at_epoch": 1592010695.636569,
+            "last_retested_at_iso": "2020-06-13T01:11:35.636569",
+            "status": "INACTIVE"
+        },
+        "ivid-f11-us-va.adhigh.net": {
+            "included_at_epoch": 1592010695.545858,
+            "included_at_iso": "2020-06-13T01:11:35.545858",
+            "last_retested_at_epoch": 1592010695.545858,
+            "last_retested_at_iso": "2020-06-13T01:11:35.545858",
+            "status": "INACTIVE"
+        },
+        "ivid-f12-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010695.743962,
+            "included_at_iso": "2020-06-13T01:11:35.743962",
+            "last_retested_at_epoch": 1592010695.743962,
+            "last_retested_at_iso": "2020-06-13T01:11:35.743962",
+            "status": "INACTIVE"
+        },
+        "ivid-f12-us-va.adhigh.net": {
+            "included_at_epoch": 1592010695.851497,
+            "included_at_iso": "2020-06-13T01:11:35.851497",
+            "last_retested_at_epoch": 1592010695.851497,
+            "last_retested_at_iso": "2020-06-13T01:11:35.851497",
+            "status": "INACTIVE"
+        },
+        "ivid-f13-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010695.941638,
+            "included_at_iso": "2020-06-13T01:11:35.941638",
+            "last_retested_at_epoch": 1592010695.941638,
+            "last_retested_at_iso": "2020-06-13T01:11:35.941638",
+            "status": "INACTIVE"
+        },
+        "ivid-f13-us-va.adhigh.net": {
+            "included_at_epoch": 1592010696.032145,
+            "included_at_iso": "2020-06-13T01:11:36.032145",
+            "last_retested_at_epoch": 1592010696.032145,
+            "last_retested_at_iso": "2020-06-13T01:11:36.032145",
+            "status": "INACTIVE"
+        },
+        "ivid-f14-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010696.139883,
+            "included_at_iso": "2020-06-13T01:11:36.139883",
+            "last_retested_at_epoch": 1592010696.139883,
+            "last_retested_at_iso": "2020-06-13T01:11:36.139883",
+            "status": "INACTIVE"
+        },
+        "ivid-f14-us-va.adhigh.net": {
+            "included_at_epoch": 1592010696.321831,
+            "included_at_iso": "2020-06-13T01:11:36.321831",
+            "last_retested_at_epoch": 1592010696.321831,
+            "last_retested_at_iso": "2020-06-13T01:11:36.321831",
+            "status": "INACTIVE"
+        },
+        "ivid-f15-de.adhigh.net": {
+            "included_at_epoch": 1592010696.230713,
+            "included_at_iso": "2020-06-13T01:11:36.230713",
+            "last_retested_at_epoch": 1592010696.230713,
+            "last_retested_at_iso": "2020-06-13T01:11:36.230713",
+            "status": "INACTIVE"
+        },
+        "ivid-f15-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010696.513229,
+            "included_at_iso": "2020-06-13T01:11:36.513229",
+            "last_retested_at_epoch": 1592010696.513229,
+            "last_retested_at_iso": "2020-06-13T01:11:36.513229",
+            "status": "INACTIVE"
+        },
+        "ivid-f15-us-va.adhigh.net": {
+            "included_at_epoch": 1592010696.412851,
+            "included_at_iso": "2020-06-13T01:11:36.412851",
+            "last_retested_at_epoch": 1592010696.412851,
+            "last_retested_at_iso": "2020-06-13T01:11:36.412851",
+            "status": "INACTIVE"
+        },
+        "ivid-f16-de.adhigh.net": {
+            "included_at_epoch": 1592010696.604615,
+            "included_at_iso": "2020-06-13T01:11:36.604615",
+            "last_retested_at_epoch": 1592010696.604615,
+            "last_retested_at_iso": "2020-06-13T01:11:36.604615",
+            "status": "INACTIVE"
+        },
+        "ivid-f16-us-va.adhigh.net": {
+            "included_at_epoch": 1592010696.695478,
+            "included_at_iso": "2020-06-13T01:11:36.695478",
+            "last_retested_at_epoch": 1592010696.695478,
+            "last_retested_at_iso": "2020-06-13T01:11:36.695478",
+            "status": "INACTIVE"
+        },
+        "ivid-f17-de.adhigh.net": {
+            "included_at_epoch": 1592010696.878026,
+            "included_at_iso": "2020-06-13T01:11:36.878026",
+            "last_retested_at_epoch": 1592010696.878026,
+            "last_retested_at_iso": "2020-06-13T01:11:36.878026",
+            "status": "INACTIVE"
+        },
+        "ivid-f17-us-va.adhigh.net": {
+            "included_at_epoch": 1592010696.786907,
+            "included_at_iso": "2020-06-13T01:11:36.786907",
+            "last_retested_at_epoch": 1592010696.786907,
+            "last_retested_at_iso": "2020-06-13T01:11:36.786907",
+            "status": "INACTIVE"
+        },
+        "ivid-f18-us-va.adhigh.net": {
+            "included_at_epoch": 1592010696.968896,
+            "included_at_iso": "2020-06-13T01:11:36.968896",
+            "last_retested_at_epoch": 1592010696.968896,
+            "last_retested_at_iso": "2020-06-13T01:11:36.968896",
+            "status": "INACTIVE"
+        },
+        "ivid-f19-de.adhigh.net": {
+            "included_at_epoch": 1592010697.059291,
+            "included_at_iso": "2020-06-13T01:11:37.059291",
+            "last_retested_at_epoch": 1592010697.059291,
+            "last_retested_at_iso": "2020-06-13T01:11:37.059291",
+            "status": "INACTIVE"
+        },
+        "ivid-f19-us-va.adhigh.net": {
+            "included_at_epoch": 1592010697.167013,
+            "included_at_iso": "2020-06-13T01:11:37.167013",
+            "last_retested_at_epoch": 1592010697.167013,
+            "last_retested_at_iso": "2020-06-13T01:11:37.167013",
+            "status": "INACTIVE"
+        },
+        "ivid-f2-hk.adhigh.net": {
+            "included_at_epoch": 1592010697.348937,
+            "included_at_iso": "2020-06-13T01:11:37.348937",
+            "last_retested_at_epoch": 1592010697.348937,
+            "last_retested_at_iso": "2020-06-13T01:11:37.348937",
+            "status": "INACTIVE"
+        },
+        "ivid-f2-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010697.257836,
+            "included_at_iso": "2020-06-13T01:11:37.257836",
+            "last_retested_at_epoch": 1592010697.257836,
+            "last_retested_at_iso": "2020-06-13T01:11:37.257836",
+            "status": "INACTIVE"
+        },
+        "ivid-f2-us-va.adhigh.net": {
+            "included_at_epoch": 1592010697.53021,
+            "included_at_iso": "2020-06-13T01:11:37.530210",
+            "last_retested_at_epoch": 1592010697.53021,
+            "last_retested_at_iso": "2020-06-13T01:11:37.530210",
+            "status": "INACTIVE"
+        },
+        "ivid-f20-us-va.adhigh.net": {
+            "included_at_epoch": 1592010697.43993,
+            "included_at_iso": "2020-06-13T01:11:37.439930",
+            "last_retested_at_epoch": 1592010697.43993,
+            "last_retested_at_iso": "2020-06-13T01:11:37.439930",
+            "status": "INACTIVE"
+        },
+        "ivid-f21-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010697.62145,
+            "included_at_iso": "2020-06-13T01:11:37.621450",
+            "last_retested_at_epoch": 1592010697.62145,
+            "last_retested_at_iso": "2020-06-13T01:11:37.621450",
+            "status": "INACTIVE"
+        },
+        "ivid-f21-us-va.adhigh.net": {
+            "included_at_epoch": 1592010697.712635,
+            "included_at_iso": "2020-06-13T01:11:37.712635",
+            "last_retested_at_epoch": 1592010697.712635,
+            "last_retested_at_iso": "2020-06-13T01:11:37.712635",
+            "status": "INACTIVE"
+        },
+        "ivid-f22-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010697.803841,
+            "included_at_iso": "2020-06-13T01:11:37.803841",
+            "last_retested_at_epoch": 1592010697.803841,
+            "last_retested_at_iso": "2020-06-13T01:11:37.803841",
+            "status": "INACTIVE"
+        },
+        "ivid-f22-us-va.adhigh.net": {
+            "included_at_epoch": 1592010697.895029,
+            "included_at_iso": "2020-06-13T01:11:37.895029",
+            "last_retested_at_epoch": 1592010697.895029,
+            "last_retested_at_iso": "2020-06-13T01:11:37.895029",
+            "status": "INACTIVE"
+        },
+        "ivid-f23-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010698.076605,
+            "included_at_iso": "2020-06-13T01:11:38.076605",
+            "last_retested_at_epoch": 1592010698.076605,
+            "last_retested_at_iso": "2020-06-13T01:11:38.076605",
+            "status": "INACTIVE"
+        },
+        "ivid-f23-us-va.adhigh.net": {
+            "included_at_epoch": 1592010697.985715,
+            "included_at_iso": "2020-06-13T01:11:37.985715",
+            "last_retested_at_epoch": 1592010697.985715,
+            "last_retested_at_iso": "2020-06-13T01:11:37.985715",
+            "status": "INACTIVE"
+        },
+        "ivid-f24-de.adhigh.net": {
+            "included_at_epoch": 1592010698.25737,
+            "included_at_iso": "2020-06-13T01:11:38.257370",
+            "last_retested_at_epoch": 1592010698.25737,
+            "last_retested_at_iso": "2020-06-13T01:11:38.257370",
+            "status": "INACTIVE"
+        },
+        "ivid-f24-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010698.167036,
+            "included_at_iso": "2020-06-13T01:11:38.167036",
+            "last_retested_at_epoch": 1592010698.167036,
+            "last_retested_at_iso": "2020-06-13T01:11:38.167036",
+            "status": "INACTIVE"
+        },
+        "ivid-f24-us-va.adhigh.net": {
+            "included_at_epoch": 1592010698.347239,
+            "included_at_iso": "2020-06-13T01:11:38.347239",
+            "last_retested_at_epoch": 1592010698.347239,
+            "last_retested_at_iso": "2020-06-13T01:11:38.347239",
+            "status": "INACTIVE"
+        },
+        "ivid-f25-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010698.437917,
+            "included_at_iso": "2020-06-13T01:11:38.437917",
+            "last_retested_at_epoch": 1592010698.437917,
+            "last_retested_at_iso": "2020-06-13T01:11:38.437917",
+            "status": "INACTIVE"
+        },
+        "ivid-f25-us-va.adhigh.net": {
+            "included_at_epoch": 1592010698.52853,
+            "included_at_iso": "2020-06-13T01:11:38.528530",
+            "last_retested_at_epoch": 1592010698.52853,
+            "last_retested_at_iso": "2020-06-13T01:11:38.528530",
+            "status": "INACTIVE"
+        },
+        "ivid-f26-de.adhigh.net": {
+            "included_at_epoch": 1592010698.619081,
+            "included_at_iso": "2020-06-13T01:11:38.619081",
+            "last_retested_at_epoch": 1592010698.619081,
+            "last_retested_at_iso": "2020-06-13T01:11:38.619081",
+            "status": "INACTIVE"
+        },
+        "ivid-f26-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010698.799044,
+            "included_at_iso": "2020-06-13T01:11:38.799044",
+            "last_retested_at_epoch": 1592010698.799044,
+            "last_retested_at_iso": "2020-06-13T01:11:38.799044",
+            "status": "INACTIVE"
+        },
+        "ivid-f26-us-va.adhigh.net": {
+            "included_at_epoch": 1592010698.709024,
+            "included_at_iso": "2020-06-13T01:11:38.709024",
+            "last_retested_at_epoch": 1592010698.709024,
+            "last_retested_at_iso": "2020-06-13T01:11:38.709024",
+            "status": "INACTIVE"
+        },
+        "ivid-f27-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010698.888516,
+            "included_at_iso": "2020-06-13T01:11:38.888516",
+            "last_retested_at_epoch": 1592010698.888516,
+            "last_retested_at_iso": "2020-06-13T01:11:38.888516",
+            "status": "INACTIVE"
+        },
+        "ivid-f27-us-va.adhigh.net": {
+            "included_at_epoch": 1592010698.986813,
+            "included_at_iso": "2020-06-13T01:11:38.986813",
+            "last_retested_at_epoch": 1592010698.986813,
+            "last_retested_at_iso": "2020-06-13T01:11:38.986813",
+            "status": "INACTIVE"
+        },
+        "ivid-f28-de.adhigh.net": {
+            "included_at_epoch": 1592010699.167376,
+            "included_at_iso": "2020-06-13T01:11:39.167376",
+            "last_retested_at_epoch": 1592010699.167376,
+            "last_retested_at_iso": "2020-06-13T01:11:39.167376",
+            "status": "INACTIVE"
+        },
+        "ivid-f28-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010699.07727,
+            "included_at_iso": "2020-06-13T01:11:39.077270",
+            "last_retested_at_epoch": 1592010699.07727,
+            "last_retested_at_iso": "2020-06-13T01:11:39.077270",
+            "status": "INACTIVE"
+        },
+        "ivid-f28-us-va.adhigh.net": {
+            "included_at_epoch": 1592010699.347368,
+            "included_at_iso": "2020-06-13T01:11:39.347368",
+            "last_retested_at_epoch": 1592010699.347368,
+            "last_retested_at_iso": "2020-06-13T01:11:39.347368",
+            "status": "INACTIVE"
+        },
+        "ivid-f29-de.adhigh.net": {
+            "included_at_epoch": 1592010699.257424,
+            "included_at_iso": "2020-06-13T01:11:39.257424",
+            "last_retested_at_epoch": 1592010699.257424,
+            "last_retested_at_iso": "2020-06-13T01:11:39.257424",
+            "status": "INACTIVE"
+        },
+        "ivid-f29-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010699.437239,
+            "included_at_iso": "2020-06-13T01:11:39.437239",
+            "last_retested_at_epoch": 1592010699.437239,
+            "last_retested_at_iso": "2020-06-13T01:11:39.437239",
+            "status": "INACTIVE"
+        },
+        "ivid-f29-us-va.adhigh.net": {
+            "included_at_epoch": 1592010699.527564,
+            "included_at_iso": "2020-06-13T01:11:39.527564",
+            "last_retested_at_epoch": 1592010699.527564,
+            "last_retested_at_iso": "2020-06-13T01:11:39.527564",
+            "status": "INACTIVE"
+        },
+        "ivid-f3-hk.adhigh.net": {
+            "included_at_epoch": 1592010699.635477,
+            "included_at_iso": "2020-06-13T01:11:39.635477",
+            "last_retested_at_epoch": 1592010699.635477,
+            "last_retested_at_iso": "2020-06-13T01:11:39.635477",
+            "status": "INACTIVE"
+        },
+        "ivid-f3-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010699.819159,
+            "included_at_iso": "2020-06-13T01:11:39.819159",
+            "last_retested_at_epoch": 1592010699.819159,
+            "last_retested_at_iso": "2020-06-13T01:11:39.819159",
+            "status": "INACTIVE"
+        },
+        "ivid-f3-us-va.adhigh.net": {
+            "included_at_epoch": 1592010699.726855,
+            "included_at_iso": "2020-06-13T01:11:39.726855",
+            "last_retested_at_epoch": 1592010699.726855,
+            "last_retested_at_iso": "2020-06-13T01:11:39.726855",
+            "status": "INACTIVE"
+        },
+        "ivid-f30-de.adhigh.net": {
+            "included_at_epoch": 1592010700.001619,
+            "included_at_iso": "2020-06-13T01:11:40.001619",
+            "last_retested_at_epoch": 1592010700.001619,
+            "last_retested_at_iso": "2020-06-13T01:11:40.001619",
+            "status": "INACTIVE"
+        },
+        "ivid-f30-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010699.910467,
+            "included_at_iso": "2020-06-13T01:11:39.910467",
+            "last_retested_at_epoch": 1592010699.910467,
+            "last_retested_at_iso": "2020-06-13T01:11:39.910467",
+            "status": "INACTIVE"
+        },
+        "ivid-f30-us-va.adhigh.net": {
+            "included_at_epoch": 1592010700.184689,
+            "included_at_iso": "2020-06-13T01:11:40.184689",
+            "last_retested_at_epoch": 1592010700.184689,
+            "last_retested_at_iso": "2020-06-13T01:11:40.184689",
+            "status": "INACTIVE"
+        },
+        "ivid-f31-de.adhigh.net": {
+            "included_at_epoch": 1592010700.093241,
+            "included_at_iso": "2020-06-13T01:11:40.093241",
+            "last_retested_at_epoch": 1592010700.093241,
+            "last_retested_at_iso": "2020-06-13T01:11:40.093241",
+            "status": "INACTIVE"
+        },
+        "ivid-f31-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010700.276678,
+            "included_at_iso": "2020-06-13T01:11:40.276678",
+            "last_retested_at_epoch": 1592010700.276678,
+            "last_retested_at_iso": "2020-06-13T01:11:40.276678",
+            "status": "INACTIVE"
+        },
+        "ivid-f31-us-va.adhigh.net": {
+            "included_at_epoch": 1592010700.367931,
+            "included_at_iso": "2020-06-13T01:11:40.367931",
+            "last_retested_at_epoch": 1592010700.367931,
+            "last_retested_at_iso": "2020-06-13T01:11:40.367931",
+            "status": "INACTIVE"
+        },
+        "ivid-f32-de.adhigh.net": {
+            "included_at_epoch": 1592010700.459938,
+            "included_at_iso": "2020-06-13T01:11:40.459938",
+            "last_retested_at_epoch": 1592010700.459938,
+            "last_retested_at_iso": "2020-06-13T01:11:40.459938",
+            "status": "INACTIVE"
+        },
+        "ivid-f32-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010700.551819,
+            "included_at_iso": "2020-06-13T01:11:40.551819",
+            "last_retested_at_epoch": 1592010700.551819,
+            "last_retested_at_iso": "2020-06-13T01:11:40.551819",
+            "status": "INACTIVE"
+        },
+        "ivid-f32-us-va.adhigh.net": {
+            "included_at_epoch": 1592010700.733903,
+            "included_at_iso": "2020-06-13T01:11:40.733903",
+            "last_retested_at_epoch": 1592010700.733903,
+            "last_retested_at_iso": "2020-06-13T01:11:40.733903",
+            "status": "INACTIVE"
+        },
+        "ivid-f33-de.adhigh.net": {
+            "included_at_epoch": 1592010700.643344,
+            "included_at_iso": "2020-06-13T01:11:40.643344",
+            "last_retested_at_epoch": 1592010700.643344,
+            "last_retested_at_iso": "2020-06-13T01:11:40.643344",
+            "status": "INACTIVE"
+        },
+        "ivid-f33-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010700.914922,
+            "included_at_iso": "2020-06-13T01:11:40.914922",
+            "last_retested_at_epoch": 1592010700.914922,
+            "last_retested_at_iso": "2020-06-13T01:11:40.914922",
+            "status": "INACTIVE"
+        },
+        "ivid-f33-us-va.adhigh.net": {
+            "included_at_epoch": 1592010700.824358,
+            "included_at_iso": "2020-06-13T01:11:40.824358",
+            "last_retested_at_epoch": 1592010700.824358,
+            "last_retested_at_iso": "2020-06-13T01:11:40.824358",
+            "status": "INACTIVE"
+        },
+        "ivid-f34-de.adhigh.net": {
+            "included_at_epoch": 1592010701.005606,
+            "included_at_iso": "2020-06-13T01:11:41.005606",
+            "last_retested_at_epoch": 1592010701.005606,
+            "last_retested_at_iso": "2020-06-13T01:11:41.005606",
+            "status": "INACTIVE"
+        },
+        "ivid-f34-us-va.adhigh.net": {
+            "included_at_epoch": 1592010701.096311,
+            "included_at_iso": "2020-06-13T01:11:41.096311",
+            "last_retested_at_epoch": 1592010701.096311,
+            "last_retested_at_iso": "2020-06-13T01:11:41.096311",
+            "status": "INACTIVE"
+        },
+        "ivid-f35-de.adhigh.net": {
+            "included_at_epoch": 1592010701.277989,
+            "included_at_iso": "2020-06-13T01:11:41.277989",
+            "last_retested_at_epoch": 1592010701.277989,
+            "last_retested_at_iso": "2020-06-13T01:11:41.277989",
+            "status": "INACTIVE"
+        },
+        "ivid-f35-us-va.adhigh.net": {
+            "included_at_epoch": 1592010701.187027,
+            "included_at_iso": "2020-06-13T01:11:41.187027",
+            "last_retested_at_epoch": 1592010701.187027,
+            "last_retested_at_iso": "2020-06-13T01:11:41.187027",
+            "status": "INACTIVE"
+        },
+        "ivid-f36-de.adhigh.net": {
+            "included_at_epoch": 1592010701.468726,
+            "included_at_iso": "2020-06-13T01:11:41.468726",
+            "last_retested_at_epoch": 1592010701.468726,
+            "last_retested_at_iso": "2020-06-13T01:11:41.468726",
+            "status": "INACTIVE"
+        },
+        "ivid-f37-de.adhigh.net": {
+            "included_at_epoch": 1592010701.377841,
+            "included_at_iso": "2020-06-13T01:11:41.377841",
+            "last_retested_at_epoch": 1592010701.377841,
+            "last_retested_at_iso": "2020-06-13T01:11:41.377841",
+            "status": "INACTIVE"
+        },
+        "ivid-f38-de.adhigh.net": {
+            "included_at_epoch": 1592010701.650141,
+            "included_at_iso": "2020-06-13T01:11:41.650141",
+            "last_retested_at_epoch": 1592010701.650141,
+            "last_retested_at_iso": "2020-06-13T01:11:41.650141",
+            "status": "INACTIVE"
+        },
+        "ivid-f39-de.adhigh.net": {
+            "included_at_epoch": 1592010701.559425,
+            "included_at_iso": "2020-06-13T01:11:41.559425",
+            "last_retested_at_epoch": 1592010701.559425,
+            "last_retested_at_iso": "2020-06-13T01:11:41.559425",
+            "status": "INACTIVE"
+        },
+        "ivid-f4-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010701.758247,
+            "included_at_iso": "2020-06-13T01:11:41.758247",
+            "last_retested_at_epoch": 1592010701.758247,
+            "last_retested_at_iso": "2020-06-13T01:11:41.758247",
+            "status": "INACTIVE"
+        },
+        "ivid-f4-us-va.adhigh.net": {
+            "included_at_epoch": 1592010701.850077,
+            "included_at_iso": "2020-06-13T01:11:41.850077",
+            "last_retested_at_epoch": 1592010701.850077,
+            "last_retested_at_iso": "2020-06-13T01:11:41.850077",
+            "status": "INACTIVE"
+        },
+        "ivid-f40-de.adhigh.net": {
+            "included_at_epoch": 1592010701.941598,
+            "included_at_iso": "2020-06-13T01:11:41.941598",
+            "last_retested_at_epoch": 1592010701.941598,
+            "last_retested_at_iso": "2020-06-13T01:11:41.941598",
+            "status": "INACTIVE"
+        },
+        "ivid-f41-de.adhigh.net": {
+            "included_at_epoch": 1592010702.032986,
+            "included_at_iso": "2020-06-13T01:11:42.032986",
+            "last_retested_at_epoch": 1592010702.032986,
+            "last_retested_at_iso": "2020-06-13T01:11:42.032986",
+            "status": "INACTIVE"
+        },
+        "ivid-f42-de.adhigh.net": {
+            "included_at_epoch": 1592010702.125052,
+            "included_at_iso": "2020-06-13T01:11:42.125052",
+            "last_retested_at_epoch": 1592010702.125052,
+            "last_retested_at_iso": "2020-06-13T01:11:42.125052",
+            "status": "INACTIVE"
+        },
+        "ivid-f5-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010702.232778,
+            "included_at_iso": "2020-06-13T01:11:42.232778",
+            "last_retested_at_epoch": 1592010702.232778,
+            "last_retested_at_iso": "2020-06-13T01:11:42.232778",
+            "status": "INACTIVE"
+        },
+        "ivid-f5-us-va.adhigh.net": {
+            "included_at_epoch": 1592010702.34175,
+            "included_at_iso": "2020-06-13T01:11:42.341750",
+            "last_retested_at_epoch": 1592010702.34175,
+            "last_retested_at_iso": "2020-06-13T01:11:42.341750",
+            "status": "INACTIVE"
+        },
+        "ivid-f54-de-tmp.adhigh.net": {
+            "included_at_epoch": 1592010702.560929,
+            "included_at_iso": "2020-06-13T01:11:42.560929",
+            "last_retested_at_epoch": 1592010702.560929,
+            "last_retested_at_iso": "2020-06-13T01:11:42.560929",
+            "status": "INACTIVE"
+        },
+        "ivid-f55-de-tmp.adhigh.net": {
+            "included_at_epoch": 1592010702.46908,
+            "included_at_iso": "2020-06-13T01:11:42.469080",
+            "last_retested_at_epoch": 1592010702.46908,
+            "last_retested_at_iso": "2020-06-13T01:11:42.469080",
+            "status": "INACTIVE"
+        },
+        "ivid-f56-de-tmp.adhigh.net": {
+            "included_at_epoch": 1592010702.653115,
+            "included_at_iso": "2020-06-13T01:11:42.653115",
+            "last_retested_at_epoch": 1592010702.653115,
+            "last_retested_at_iso": "2020-06-13T01:11:42.653115",
+            "status": "INACTIVE"
+        },
+        "ivid-f57-de-tmp.adhigh.net": {
+            "included_at_epoch": 1592010702.744603,
+            "included_at_iso": "2020-06-13T01:11:42.744603",
+            "last_retested_at_epoch": 1592010702.744603,
+            "last_retested_at_iso": "2020-06-13T01:11:42.744603",
+            "status": "INACTIVE"
+        },
+        "ivid-f6-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010702.853064,
+            "included_at_iso": "2020-06-13T01:11:42.853064",
+            "last_retested_at_epoch": 1592010702.853064,
+            "last_retested_at_iso": "2020-06-13T01:11:42.853064",
+            "status": "INACTIVE"
+        },
+        "ivid-f6-us-va.adhigh.net": {
+            "included_at_epoch": 1592010702.962189,
+            "included_at_iso": "2020-06-13T01:11:42.962189",
+            "last_retested_at_epoch": 1592010702.962189,
+            "last_retested_at_iso": "2020-06-13T01:11:42.962189",
+            "status": "INACTIVE"
+        },
+        "ivid-f7-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010703.146795,
+            "included_at_iso": "2020-06-13T01:11:43.146795",
+            "last_retested_at_epoch": 1592010703.146795,
+            "last_retested_at_iso": "2020-06-13T01:11:43.146795",
+            "status": "INACTIVE"
+        },
+        "ivid-f7-us-va.adhigh.net": {
+            "included_at_epoch": 1592010703.054214,
+            "included_at_iso": "2020-06-13T01:11:43.054214",
+            "last_retested_at_epoch": 1592010703.054214,
+            "last_retested_at_iso": "2020-06-13T01:11:43.054214",
+            "status": "INACTIVE"
+        },
+        "ivid-f8-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010703.25632,
+            "included_at_iso": "2020-06-13T01:11:43.256320",
+            "last_retested_at_epoch": 1592010703.25632,
+            "last_retested_at_iso": "2020-06-13T01:11:43.256320",
+            "status": "INACTIVE"
+        },
+        "ivid-f8-us-va.adhigh.net": {
+            "included_at_epoch": 1592010703.365218,
+            "included_at_iso": "2020-06-13T01:11:43.365218",
+            "last_retested_at_epoch": 1592010703.365218,
+            "last_retested_at_iso": "2020-06-13T01:11:43.365218",
+            "status": "INACTIVE"
+        },
+        "ivid-f9-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010703.457592,
+            "included_at_iso": "2020-06-13T01:11:43.457592",
+            "last_retested_at_epoch": 1592010703.457592,
+            "last_retested_at_iso": "2020-06-13T01:11:43.457592",
+            "status": "INACTIVE"
+        },
+        "ivid-f9-us-va.adhigh.net": {
+            "included_at_epoch": 1592010703.54972,
+            "included_at_iso": "2020-06-13T01:11:43.549720",
+            "last_retested_at_epoch": 1592010703.54972,
+            "last_retested_at_iso": "2020-06-13T01:11:43.549720",
+            "status": "INACTIVE"
+        },
+        "ivid-ft1-hk.adhigh.net": {
+            "included_at_epoch": 1592010703.664754,
+            "included_at_iso": "2020-06-13T01:11:43.664754",
+            "last_retested_at_epoch": 1592010703.664754,
+            "last_retested_at_iso": "2020-06-13T01:11:43.664754",
+            "status": "INACTIVE"
+        },
         "iw3.a.mobimagic.com": {
             "included_at_epoch": 1591994649.900136,
             "included_at_iso": "2020-06-12T20:44:09.900136",
@@ -25387,6 +26304,13 @@
             "included_at_iso": "2020-06-12T20:44:20.341475",
             "last_retested_at_epoch": 1591994660.341475,
             "last_retested_at_iso": "2020-06-12T20:44:20.341475",
+            "status": "INACTIVE"
+        },
+        "labs.actionx.com": {
+            "included_at_epoch": 1592010719.982811,
+            "included_at_iso": "2020-06-13T01:11:59.982811",
+            "last_retested_at_epoch": 1592010719.982811,
+            "last_retested_at_iso": "2020-06-13T01:11:59.982811",
             "status": "INACTIVE"
         },
         "labs.onthe.io": {
@@ -26157,6 +27081,13 @@
             "included_at_iso": "2020-06-12T20:44:29.852098",
             "last_retested_at_epoch": 1591994669.852098,
             "last_retested_at_iso": "2020-06-12T20:44:29.852098",
+            "status": "INACTIVE"
+        },
+        "lp.actionx.com": {
+            "included_at_epoch": 1592010720.075941,
+            "included_at_iso": "2020-06-13T01:12:00.075941",
+            "last_retested_at_epoch": 1592010720.075941,
+            "last_retested_at_iso": "2020-06-13T01:12:00.075941",
             "status": "INACTIVE"
         },
         "lpx2lp56l2.mentalist.kameleoon.com": {
@@ -29470,6 +30401,13 @@
             "last_retested_at_iso": "2020-06-12T21:19:27.917142",
             "status": "INACTIVE"
         },
+        "p.actionx.com": {
+            "included_at_epoch": 1592010720.262733,
+            "included_at_iso": "2020-06-13T01:12:00.262733",
+            "last_retested_at_epoch": 1592010720.262733,
+            "last_retested_at_iso": "2020-06-13T01:12:00.262733",
+            "status": "INACTIVE"
+        },
         "p.media.net": {
             "included_at_epoch": 1591998374.413053,
             "included_at_iso": "2020-06-12T21:46:14.413053",
@@ -30471,11 +31409,39 @@
             "last_retested_at_iso": "2020-06-12T21:46:25.040343",
             "status": "INACTIVE"
         },
+        "px-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010704.046776,
+            "included_at_iso": "2020-06-13T01:11:44.046776",
+            "last_retested_at_epoch": 1592010704.046776,
+            "last_retested_at_iso": "2020-06-13T01:11:44.046776",
+            "status": "INACTIVE"
+        },
+        "px-us-va.adhigh.net": {
+            "included_at_epoch": 1592010704.14802,
+            "included_at_iso": "2020-06-13T01:11:44.148020",
+            "last_retested_at_epoch": 1592010704.14802,
+            "last_retested_at_iso": "2020-06-13T01:11:44.148020",
+            "status": "INACTIVE"
+        },
+        "px-us.adhigh.net": {
+            "included_at_epoch": 1592010703.954779,
+            "included_at_iso": "2020-06-13T01:11:43.954779",
+            "last_retested_at_epoch": 1592010703.954779,
+            "last_retested_at_iso": "2020-06-13T01:11:43.954779",
+            "status": "INACTIVE"
+        },
         "px.at.atwola.com": {
             "included_at_epoch": 1591998385.1489,
             "included_at_iso": "2020-06-12T21:46:25.148900",
             "last_retested_at_epoch": 1591998385.1489,
             "last_retested_at_iso": "2020-06-12T21:46:25.148900",
+            "status": "INACTIVE"
+        },
+        "px3.adhigh.net": {
+            "included_at_epoch": 1592010704.239523,
+            "included_at_iso": "2020-06-13T01:11:44.239523",
+            "last_retested_at_epoch": 1592010704.239523,
+            "last_retested_at_iso": "2020-06-13T01:11:44.239523",
             "status": "INACTIVE"
         },
         "pxl.ace.advertising.com": {
@@ -31143,6 +32109,13 @@
             "last_retested_at_iso": "2020-06-13T00:54:13.691754",
             "status": "INACTIVE"
         },
+        "reports.actionx.com": {
+            "included_at_epoch": 1592010720.362635,
+            "included_at_iso": "2020-06-13T01:12:00.362635",
+            "last_retested_at_epoch": 1592010720.362635,
+            "last_retested_at_iso": "2020-06-13T01:12:00.362635",
+            "status": "INACTIVE"
+        },
         "reports.advertising.com": {
             "included_at_epoch": 1591998395.764874,
             "included_at_iso": "2020-06-12T21:46:35.764874",
@@ -31554,6 +32527,20 @@
             "included_at_iso": "2020-06-12T22:26:25.255958",
             "last_retested_at_epoch": 1592000785.255958,
             "last_retested_at_iso": "2020-06-12T22:26:25.255958",
+            "status": "INACTIVE"
+        },
+        "rtb-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010704.441931,
+            "included_at_iso": "2020-06-13T01:11:44.441931",
+            "last_retested_at_epoch": 1592010704.441931,
+            "last_retested_at_iso": "2020-06-13T01:11:44.441931",
+            "status": "INACTIVE"
+        },
+        "rtb-us-va.adhigh.net": {
+            "included_at_epoch": 1592010704.534954,
+            "included_at_iso": "2020-06-13T01:11:44.534954",
+            "last_retested_at_epoch": 1592010704.534954,
+            "last_retested_at_iso": "2020-06-13T01:11:44.534954",
             "status": "INACTIVE"
         },
         "rtb-useast-1.vizury.com": {
@@ -34027,6 +35014,13 @@
             "last_retested_at_iso": "2020-06-12T23:05:11.313030",
             "status": "INACTIVE"
         },
+        "static.actionx.com": {
+            "included_at_epoch": 1592010720.456005,
+            "included_at_iso": "2020-06-13T01:12:00.456005",
+            "last_retested_at_epoch": 1592010720.456005,
+            "last_retested_at_iso": "2020-06-13T01:12:00.456005",
+            "status": "INACTIVE"
+        },
         "static.adpushup.com": {
             "included_at_epoch": 1592003109.140437,
             "included_at_iso": "2020-06-12T23:05:09.140437",
@@ -34508,6 +35502,13 @@
             "included_at_iso": "2020-06-12T23:05:21.632879",
             "last_retested_at_epoch": 1592003121.632879,
             "last_retested_at_iso": "2020-06-12T23:05:21.632879",
+            "status": "INACTIVE"
+        },
+        "t.actionx.com": {
+            "included_at_epoch": 1592010720.549082,
+            "included_at_iso": "2020-06-13T01:12:00.549082",
+            "last_retested_at_epoch": 1592010720.549082,
+            "last_retested_at_iso": "2020-06-13T01:12:00.549082",
             "status": "INACTIVE"
         },
         "t.admitad.com": {
@@ -36001,6 +37002,13 @@
             "last_retested_at_iso": "2020-06-12T23:39:46.917109",
             "status": "INACTIVE"
         },
+        "ui1-lu.adhigh.net": {
+            "included_at_epoch": 1592010704.627793,
+            "included_at_iso": "2020-06-13T01:11:44.627793",
+            "last_retested_at_epoch": 1592010704.627793,
+            "last_retested_at_iso": "2020-06-13T01:11:44.627793",
+            "status": "INACTIVE"
+        },
         "uiservices.adtech.de": {
             "included_at_epoch": 1592005187.189259,
             "included_at_iso": "2020-06-12T23:39:47.189259",
@@ -36428,6 +37436,13 @@
             "last_retested_at_iso": "2020-06-12T23:40:00.649976",
             "status": "INACTIVE"
         },
+        "v.actionx.com": {
+            "included_at_epoch": 1592010720.644241,
+            "included_at_iso": "2020-06-13T01:12:00.644241",
+            "last_retested_at_epoch": 1592010720.644241,
+            "last_retested_at_iso": "2020-06-13T01:12:00.644241",
+            "status": "INACTIVE"
+        },
         "v.fwmrm.net": {
             "included_at_epoch": 1592005207.640568,
             "included_at_iso": "2020-06-12T23:40:07.640568",
@@ -36631,6 +37646,636 @@
             "last_retested_at_iso": "2020-06-12T23:40:04.242116",
             "status": "INACTIVE"
         },
+        "vast-f1-hk.adhigh.net": {
+            "included_at_epoch": 1592010704.754544,
+            "included_at_iso": "2020-06-13T01:11:44.754544",
+            "last_retested_at_epoch": 1592010704.754544,
+            "last_retested_at_iso": "2020-06-13T01:11:44.754544",
+            "status": "INACTIVE"
+        },
+        "vast-f1-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010704.847546,
+            "included_at_iso": "2020-06-13T01:11:44.847546",
+            "last_retested_at_epoch": 1592010704.847546,
+            "last_retested_at_iso": "2020-06-13T01:11:44.847546",
+            "status": "INACTIVE"
+        },
+        "vast-f1-us-va.adhigh.net": {
+            "included_at_epoch": 1592010704.956618,
+            "included_at_iso": "2020-06-13T01:11:44.956618",
+            "last_retested_at_epoch": 1592010704.956618,
+            "last_retested_at_iso": "2020-06-13T01:11:44.956618",
+            "status": "INACTIVE"
+        },
+        "vast-f10-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010705.049013,
+            "included_at_iso": "2020-06-13T01:11:45.049013",
+            "last_retested_at_epoch": 1592010705.049013,
+            "last_retested_at_iso": "2020-06-13T01:11:45.049013",
+            "status": "INACTIVE"
+        },
+        "vast-f10-us-va.adhigh.net": {
+            "included_at_epoch": 1592010705.140976,
+            "included_at_iso": "2020-06-13T01:11:45.140976",
+            "last_retested_at_epoch": 1592010705.140976,
+            "last_retested_at_iso": "2020-06-13T01:11:45.140976",
+            "status": "INACTIVE"
+        },
+        "vast-f11-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010705.250016,
+            "included_at_iso": "2020-06-13T01:11:45.250016",
+            "last_retested_at_epoch": 1592010705.250016,
+            "last_retested_at_iso": "2020-06-13T01:11:45.250016",
+            "status": "INACTIVE"
+        },
+        "vast-f11-us-va.adhigh.net": {
+            "included_at_epoch": 1592010705.360581,
+            "included_at_iso": "2020-06-13T01:11:45.360581",
+            "last_retested_at_epoch": 1592010705.360581,
+            "last_retested_at_iso": "2020-06-13T01:11:45.360581",
+            "status": "INACTIVE"
+        },
+        "vast-f12-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010705.452996,
+            "included_at_iso": "2020-06-13T01:11:45.452996",
+            "last_retested_at_epoch": 1592010705.452996,
+            "last_retested_at_iso": "2020-06-13T01:11:45.452996",
+            "status": "INACTIVE"
+        },
+        "vast-f12-us-va.adhigh.net": {
+            "included_at_epoch": 1592010705.545453,
+            "included_at_iso": "2020-06-13T01:11:45.545453",
+            "last_retested_at_epoch": 1592010705.545453,
+            "last_retested_at_iso": "2020-06-13T01:11:45.545453",
+            "status": "INACTIVE"
+        },
+        "vast-f13-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010705.655382,
+            "included_at_iso": "2020-06-13T01:11:45.655382",
+            "last_retested_at_epoch": 1592010705.655382,
+            "last_retested_at_iso": "2020-06-13T01:11:45.655382",
+            "status": "INACTIVE"
+        },
+        "vast-f13-us-va.adhigh.net": {
+            "included_at_epoch": 1592010705.765416,
+            "included_at_iso": "2020-06-13T01:11:45.765416",
+            "last_retested_at_epoch": 1592010705.765416,
+            "last_retested_at_iso": "2020-06-13T01:11:45.765416",
+            "status": "INACTIVE"
+        },
+        "vast-f14-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010705.857938,
+            "included_at_iso": "2020-06-13T01:11:45.857938",
+            "last_retested_at_epoch": 1592010705.857938,
+            "last_retested_at_iso": "2020-06-13T01:11:45.857938",
+            "status": "INACTIVE"
+        },
+        "vast-f14-us-va.adhigh.net": {
+            "included_at_epoch": 1592010705.950211,
+            "included_at_iso": "2020-06-13T01:11:45.950211",
+            "last_retested_at_epoch": 1592010705.950211,
+            "last_retested_at_iso": "2020-06-13T01:11:45.950211",
+            "status": "INACTIVE"
+        },
+        "vast-f15-de.adhigh.net": {
+            "included_at_epoch": 1592010706.042934,
+            "included_at_iso": "2020-06-13T01:11:46.042934",
+            "last_retested_at_epoch": 1592010706.042934,
+            "last_retested_at_iso": "2020-06-13T01:11:46.042934",
+            "status": "INACTIVE"
+        },
+        "vast-f15-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010706.135087,
+            "included_at_iso": "2020-06-13T01:11:46.135087",
+            "last_retested_at_epoch": 1592010706.135087,
+            "last_retested_at_iso": "2020-06-13T01:11:46.135087",
+            "status": "INACTIVE"
+        },
+        "vast-f15-us-va.adhigh.net": {
+            "included_at_epoch": 1592010706.319449,
+            "included_at_iso": "2020-06-13T01:11:46.319449",
+            "last_retested_at_epoch": 1592010706.319449,
+            "last_retested_at_iso": "2020-06-13T01:11:46.319449",
+            "status": "INACTIVE"
+        },
+        "vast-f16-de.adhigh.net": {
+            "included_at_epoch": 1592010706.227006,
+            "included_at_iso": "2020-06-13T01:11:46.227006",
+            "last_retested_at_epoch": 1592010706.227006,
+            "last_retested_at_iso": "2020-06-13T01:11:46.227006",
+            "status": "INACTIVE"
+        },
+        "vast-f16-us-va.adhigh.net": {
+            "included_at_epoch": 1592010706.410271,
+            "included_at_iso": "2020-06-13T01:11:46.410271",
+            "last_retested_at_epoch": 1592010706.410271,
+            "last_retested_at_iso": "2020-06-13T01:11:46.410271",
+            "status": "INACTIVE"
+        },
+        "vast-f17-de.adhigh.net": {
+            "included_at_epoch": 1592010706.502314,
+            "included_at_iso": "2020-06-13T01:11:46.502314",
+            "last_retested_at_epoch": 1592010706.502314,
+            "last_retested_at_iso": "2020-06-13T01:11:46.502314",
+            "status": "INACTIVE"
+        },
+        "vast-f17-us-va.adhigh.net": {
+            "included_at_epoch": 1592010706.694407,
+            "included_at_iso": "2020-06-13T01:11:46.694407",
+            "last_retested_at_epoch": 1592010706.694407,
+            "last_retested_at_iso": "2020-06-13T01:11:46.694407",
+            "status": "INACTIVE"
+        },
+        "vast-f18-us-va.adhigh.net": {
+            "included_at_epoch": 1592010706.593842,
+            "included_at_iso": "2020-06-13T01:11:46.593842",
+            "last_retested_at_epoch": 1592010706.593842,
+            "last_retested_at_iso": "2020-06-13T01:11:46.593842",
+            "status": "INACTIVE"
+        },
+        "vast-f19-us-va.adhigh.net": {
+            "included_at_epoch": 1592010706.8035,
+            "included_at_iso": "2020-06-13T01:11:46.803500",
+            "last_retested_at_epoch": 1592010706.8035,
+            "last_retested_at_iso": "2020-06-13T01:11:46.803500",
+            "status": "INACTIVE"
+        },
+        "vast-f2-hk.adhigh.net": {
+            "included_at_epoch": 1592010706.988513,
+            "included_at_iso": "2020-06-13T01:11:46.988513",
+            "last_retested_at_epoch": 1592010706.988513,
+            "last_retested_at_iso": "2020-06-13T01:11:46.988513",
+            "status": "INACTIVE"
+        },
+        "vast-f2-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010706.896244,
+            "included_at_iso": "2020-06-13T01:11:46.896244",
+            "last_retested_at_epoch": 1592010706.896244,
+            "last_retested_at_iso": "2020-06-13T01:11:46.896244",
+            "status": "INACTIVE"
+        },
+        "vast-f2-us-va.adhigh.net": {
+            "included_at_epoch": 1592010707.080275,
+            "included_at_iso": "2020-06-13T01:11:47.080275",
+            "last_retested_at_epoch": 1592010707.080275,
+            "last_retested_at_iso": "2020-06-13T01:11:47.080275",
+            "status": "INACTIVE"
+        },
+        "vast-f20-us-va.adhigh.net": {
+            "included_at_epoch": 1592010707.171537,
+            "included_at_iso": "2020-06-13T01:11:47.171537",
+            "last_retested_at_epoch": 1592010707.171537,
+            "last_retested_at_iso": "2020-06-13T01:11:47.171537",
+            "status": "INACTIVE"
+        },
+        "vast-f21-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010707.354847,
+            "included_at_iso": "2020-06-13T01:11:47.354847",
+            "last_retested_at_epoch": 1592010707.354847,
+            "last_retested_at_iso": "2020-06-13T01:11:47.354847",
+            "status": "INACTIVE"
+        },
+        "vast-f21-us-va.adhigh.net": {
+            "included_at_epoch": 1592010707.262836,
+            "included_at_iso": "2020-06-13T01:11:47.262836",
+            "last_retested_at_epoch": 1592010707.262836,
+            "last_retested_at_iso": "2020-06-13T01:11:47.262836",
+            "status": "INACTIVE"
+        },
+        "vast-f22-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010707.446792,
+            "included_at_iso": "2020-06-13T01:11:47.446792",
+            "last_retested_at_epoch": 1592010707.446792,
+            "last_retested_at_iso": "2020-06-13T01:11:47.446792",
+            "status": "INACTIVE"
+        },
+        "vast-f22-us-va.adhigh.net": {
+            "included_at_epoch": 1592010707.538568,
+            "included_at_iso": "2020-06-13T01:11:47.538568",
+            "last_retested_at_epoch": 1592010707.538568,
+            "last_retested_at_iso": "2020-06-13T01:11:47.538568",
+            "status": "INACTIVE"
+        },
+        "vast-f23-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010707.721913,
+            "included_at_iso": "2020-06-13T01:11:47.721913",
+            "last_retested_at_epoch": 1592010707.721913,
+            "last_retested_at_iso": "2020-06-13T01:11:47.721913",
+            "status": "INACTIVE"
+        },
+        "vast-f23-us-va.adhigh.net": {
+            "included_at_epoch": 1592010707.63052,
+            "included_at_iso": "2020-06-13T01:11:47.630520",
+            "last_retested_at_epoch": 1592010707.63052,
+            "last_retested_at_iso": "2020-06-13T01:11:47.630520",
+            "status": "INACTIVE"
+        },
+        "vast-f24-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010707.813815,
+            "included_at_iso": "2020-06-13T01:11:47.813815",
+            "last_retested_at_epoch": 1592010707.813815,
+            "last_retested_at_iso": "2020-06-13T01:11:47.813815",
+            "status": "INACTIVE"
+        },
+        "vast-f24-us-va.adhigh.net": {
+            "included_at_epoch": 1592010707.905592,
+            "included_at_iso": "2020-06-13T01:11:47.905592",
+            "last_retested_at_epoch": 1592010707.905592,
+            "last_retested_at_iso": "2020-06-13T01:11:47.905592",
+            "status": "INACTIVE"
+        },
+        "vast-f25-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010708.088612,
+            "included_at_iso": "2020-06-13T01:11:48.088612",
+            "last_retested_at_epoch": 1592010708.088612,
+            "last_retested_at_iso": "2020-06-13T01:11:48.088612",
+            "status": "INACTIVE"
+        },
+        "vast-f25-us-va.adhigh.net": {
+            "included_at_epoch": 1592010707.997084,
+            "included_at_iso": "2020-06-13T01:11:47.997084",
+            "last_retested_at_epoch": 1592010707.997084,
+            "last_retested_at_iso": "2020-06-13T01:11:47.997084",
+            "status": "INACTIVE"
+        },
+        "vast-f26-de.adhigh.net": {
+            "included_at_epoch": 1592010708.180915,
+            "included_at_iso": "2020-06-13T01:11:48.180915",
+            "last_retested_at_epoch": 1592010708.180915,
+            "last_retested_at_iso": "2020-06-13T01:11:48.180915",
+            "status": "INACTIVE"
+        },
+        "vast-f26-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010708.272479,
+            "included_at_iso": "2020-06-13T01:11:48.272479",
+            "last_retested_at_epoch": 1592010708.272479,
+            "last_retested_at_iso": "2020-06-13T01:11:48.272479",
+            "status": "INACTIVE"
+        },
+        "vast-f26-us-va.adhigh.net": {
+            "included_at_epoch": 1592010708.364033,
+            "included_at_iso": "2020-06-13T01:11:48.364033",
+            "last_retested_at_epoch": 1592010708.364033,
+            "last_retested_at_iso": "2020-06-13T01:11:48.364033",
+            "status": "INACTIVE"
+        },
+        "vast-f27-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010708.456163,
+            "included_at_iso": "2020-06-13T01:11:48.456163",
+            "last_retested_at_epoch": 1592010708.456163,
+            "last_retested_at_iso": "2020-06-13T01:11:48.456163",
+            "status": "INACTIVE"
+        },
+        "vast-f27-us-va.adhigh.net": {
+            "included_at_epoch": 1592010708.548168,
+            "included_at_iso": "2020-06-13T01:11:48.548168",
+            "last_retested_at_epoch": 1592010708.548168,
+            "last_retested_at_iso": "2020-06-13T01:11:48.548168",
+            "status": "INACTIVE"
+        },
+        "vast-f28-de.adhigh.net": {
+            "included_at_epoch": 1592010708.639961,
+            "included_at_iso": "2020-06-13T01:11:48.639961",
+            "last_retested_at_epoch": 1592010708.639961,
+            "last_retested_at_iso": "2020-06-13T01:11:48.639961",
+            "status": "INACTIVE"
+        },
+        "vast-f28-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010708.823925,
+            "included_at_iso": "2020-06-13T01:11:48.823925",
+            "last_retested_at_epoch": 1592010708.823925,
+            "last_retested_at_iso": "2020-06-13T01:11:48.823925",
+            "status": "INACTIVE"
+        },
+        "vast-f28-us-va.adhigh.net": {
+            "included_at_epoch": 1592010708.73189,
+            "included_at_iso": "2020-06-13T01:11:48.731890",
+            "last_retested_at_epoch": 1592010708.73189,
+            "last_retested_at_iso": "2020-06-13T01:11:48.731890",
+            "status": "INACTIVE"
+        },
+        "vast-f29-de.adhigh.net": {
+            "included_at_epoch": 1592010708.916181,
+            "included_at_iso": "2020-06-13T01:11:48.916181",
+            "last_retested_at_epoch": 1592010708.916181,
+            "last_retested_at_iso": "2020-06-13T01:11:48.916181",
+            "status": "INACTIVE"
+        },
+        "vast-f29-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010709.007642,
+            "included_at_iso": "2020-06-13T01:11:49.007642",
+            "last_retested_at_epoch": 1592010709.007642,
+            "last_retested_at_iso": "2020-06-13T01:11:49.007642",
+            "status": "INACTIVE"
+        },
+        "vast-f29-us-va.adhigh.net": {
+            "included_at_epoch": 1592010709.117074,
+            "included_at_iso": "2020-06-13T01:11:49.117074",
+            "last_retested_at_epoch": 1592010709.117074,
+            "last_retested_at_iso": "2020-06-13T01:11:49.117074",
+            "status": "INACTIVE"
+        },
+        "vast-f3-hk.adhigh.net": {
+            "included_at_epoch": 1592010709.311533,
+            "included_at_iso": "2020-06-13T01:11:49.311533",
+            "last_retested_at_epoch": 1592010709.311533,
+            "last_retested_at_iso": "2020-06-13T01:11:49.311533",
+            "status": "INACTIVE"
+        },
+        "vast-f3-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010709.218777,
+            "included_at_iso": "2020-06-13T01:11:49.218777",
+            "last_retested_at_epoch": 1592010709.218777,
+            "last_retested_at_iso": "2020-06-13T01:11:49.218777",
+            "status": "INACTIVE"
+        },
+        "vast-f3-us-va.adhigh.net": {
+            "included_at_epoch": 1592010709.497753,
+            "included_at_iso": "2020-06-13T01:11:49.497753",
+            "last_retested_at_epoch": 1592010709.497753,
+            "last_retested_at_iso": "2020-06-13T01:11:49.497753",
+            "status": "INACTIVE"
+        },
+        "vast-f30-de.adhigh.net": {
+            "included_at_epoch": 1592010709.404961,
+            "included_at_iso": "2020-06-13T01:11:49.404961",
+            "last_retested_at_epoch": 1592010709.404961,
+            "last_retested_at_iso": "2020-06-13T01:11:49.404961",
+            "status": "INACTIVE"
+        },
+        "vast-f30-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010709.683503,
+            "included_at_iso": "2020-06-13T01:11:49.683503",
+            "last_retested_at_epoch": 1592010709.683503,
+            "last_retested_at_iso": "2020-06-13T01:11:49.683503",
+            "status": "INACTIVE"
+        },
+        "vast-f30-us-va.adhigh.net": {
+            "included_at_epoch": 1592010709.59044,
+            "included_at_iso": "2020-06-13T01:11:49.590440",
+            "last_retested_at_epoch": 1592010709.59044,
+            "last_retested_at_iso": "2020-06-13T01:11:49.590440",
+            "status": "INACTIVE"
+        },
+        "vast-f31-de.adhigh.net": {
+            "included_at_epoch": 1592010709.869256,
+            "included_at_iso": "2020-06-13T01:11:49.869256",
+            "last_retested_at_epoch": 1592010709.869256,
+            "last_retested_at_iso": "2020-06-13T01:11:49.869256",
+            "status": "INACTIVE"
+        },
+        "vast-f31-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010709.776324,
+            "included_at_iso": "2020-06-13T01:11:49.776324",
+            "last_retested_at_epoch": 1592010709.776324,
+            "last_retested_at_iso": "2020-06-13T01:11:49.776324",
+            "status": "INACTIVE"
+        },
+        "vast-f31-us-va.adhigh.net": {
+            "included_at_epoch": 1592010709.961822,
+            "included_at_iso": "2020-06-13T01:11:49.961822",
+            "last_retested_at_epoch": 1592010709.961822,
+            "last_retested_at_iso": "2020-06-13T01:11:49.961822",
+            "status": "INACTIVE"
+        },
+        "vast-f32-de.adhigh.net": {
+            "included_at_epoch": 1592010710.054962,
+            "included_at_iso": "2020-06-13T01:11:50.054962",
+            "last_retested_at_epoch": 1592010710.054962,
+            "last_retested_at_iso": "2020-06-13T01:11:50.054962",
+            "status": "INACTIVE"
+        },
+        "vast-f32-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010710.239377,
+            "included_at_iso": "2020-06-13T01:11:50.239377",
+            "last_retested_at_epoch": 1592010710.239377,
+            "last_retested_at_iso": "2020-06-13T01:11:50.239377",
+            "status": "INACTIVE"
+        },
+        "vast-f32-us-va.adhigh.net": {
+            "included_at_epoch": 1592010710.147656,
+            "included_at_iso": "2020-06-13T01:11:50.147656",
+            "last_retested_at_epoch": 1592010710.147656,
+            "last_retested_at_iso": "2020-06-13T01:11:50.147656",
+            "status": "INACTIVE"
+        },
+        "vast-f33-de.adhigh.net": {
+            "included_at_epoch": 1592010710.331712,
+            "included_at_iso": "2020-06-13T01:11:50.331712",
+            "last_retested_at_epoch": 1592010710.331712,
+            "last_retested_at_iso": "2020-06-13T01:11:50.331712",
+            "status": "INACTIVE"
+        },
+        "vast-f33-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010710.42338,
+            "included_at_iso": "2020-06-13T01:11:50.423380",
+            "last_retested_at_epoch": 1592010710.42338,
+            "last_retested_at_iso": "2020-06-13T01:11:50.423380",
+            "status": "INACTIVE"
+        },
+        "vast-f33-us-va.adhigh.net": {
+            "included_at_epoch": 1592010710.515922,
+            "included_at_iso": "2020-06-13T01:11:50.515922",
+            "last_retested_at_epoch": 1592010710.515922,
+            "last_retested_at_iso": "2020-06-13T01:11:50.515922",
+            "status": "INACTIVE"
+        },
+        "vast-f34-de.adhigh.net": {
+            "included_at_epoch": 1592010710.608233,
+            "included_at_iso": "2020-06-13T01:11:50.608233",
+            "last_retested_at_epoch": 1592010710.608233,
+            "last_retested_at_iso": "2020-06-13T01:11:50.608233",
+            "status": "INACTIVE"
+        },
+        "vast-f34-us-va.adhigh.net": {
+            "included_at_epoch": 1592010710.791815,
+            "included_at_iso": "2020-06-13T01:11:50.791815",
+            "last_retested_at_epoch": 1592010710.791815,
+            "last_retested_at_iso": "2020-06-13T01:11:50.791815",
+            "status": "INACTIVE"
+        },
+        "vast-f35-de.adhigh.net": {
+            "included_at_epoch": 1592010710.699928,
+            "included_at_iso": "2020-06-13T01:11:50.699928",
+            "last_retested_at_epoch": 1592010710.699928,
+            "last_retested_at_iso": "2020-06-13T01:11:50.699928",
+            "status": "INACTIVE"
+        },
+        "vast-f35-us-va.adhigh.net": {
+            "included_at_epoch": 1592010710.97456,
+            "included_at_iso": "2020-06-13T01:11:50.974560",
+            "last_retested_at_epoch": 1592010710.97456,
+            "last_retested_at_iso": "2020-06-13T01:11:50.974560",
+            "status": "INACTIVE"
+        },
+        "vast-f36-de.adhigh.net": {
+            "included_at_epoch": 1592010710.882992,
+            "included_at_iso": "2020-06-13T01:11:50.882992",
+            "last_retested_at_epoch": 1592010710.882992,
+            "last_retested_at_iso": "2020-06-13T01:11:50.882992",
+            "status": "INACTIVE"
+        },
+        "vast-f37-de.adhigh.net": {
+            "included_at_epoch": 1592010711.065705,
+            "included_at_iso": "2020-06-13T01:11:51.065705",
+            "last_retested_at_epoch": 1592010711.065705,
+            "last_retested_at_iso": "2020-06-13T01:11:51.065705",
+            "status": "INACTIVE"
+        },
+        "vast-f38-de.adhigh.net": {
+            "included_at_epoch": 1592010711.15732,
+            "included_at_iso": "2020-06-13T01:11:51.157320",
+            "last_retested_at_epoch": 1592010711.15732,
+            "last_retested_at_iso": "2020-06-13T01:11:51.157320",
+            "status": "INACTIVE"
+        },
+        "vast-f39-de.adhigh.net": {
+            "included_at_epoch": 1592010711.266672,
+            "included_at_iso": "2020-06-13T01:11:51.266672",
+            "last_retested_at_epoch": 1592010711.266672,
+            "last_retested_at_iso": "2020-06-13T01:11:51.266672",
+            "status": "INACTIVE"
+        },
+        "vast-f4-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010711.452436,
+            "included_at_iso": "2020-06-13T01:11:51.452436",
+            "last_retested_at_epoch": 1592010711.452436,
+            "last_retested_at_iso": "2020-06-13T01:11:51.452436",
+            "status": "INACTIVE"
+        },
+        "vast-f4-us-va.adhigh.net": {
+            "included_at_epoch": 1592010711.359327,
+            "included_at_iso": "2020-06-13T01:11:51.359327",
+            "last_retested_at_epoch": 1592010711.359327,
+            "last_retested_at_iso": "2020-06-13T01:11:51.359327",
+            "status": "INACTIVE"
+        },
+        "vast-f40-de.adhigh.net": {
+            "included_at_epoch": 1592010711.544814,
+            "included_at_iso": "2020-06-13T01:11:51.544814",
+            "last_retested_at_epoch": 1592010711.544814,
+            "last_retested_at_iso": "2020-06-13T01:11:51.544814",
+            "status": "INACTIVE"
+        },
+        "vast-f41-de.adhigh.net": {
+            "included_at_epoch": 1592010711.63734,
+            "included_at_iso": "2020-06-13T01:11:51.637340",
+            "last_retested_at_epoch": 1592010711.63734,
+            "last_retested_at_iso": "2020-06-13T01:11:51.637340",
+            "status": "INACTIVE"
+        },
+        "vast-f42-de.adhigh.net": {
+            "included_at_epoch": 1592010711.756104,
+            "included_at_iso": "2020-06-13T01:11:51.756104",
+            "last_retested_at_epoch": 1592010711.756104,
+            "last_retested_at_iso": "2020-06-13T01:11:51.756104",
+            "status": "INACTIVE"
+        },
+        "vast-f5-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010711.849105,
+            "included_at_iso": "2020-06-13T01:11:51.849105",
+            "last_retested_at_epoch": 1592010711.849105,
+            "last_retested_at_iso": "2020-06-13T01:11:51.849105",
+            "status": "INACTIVE"
+        },
+        "vast-f5-us-va.adhigh.net": {
+            "included_at_epoch": 1592010711.942045,
+            "included_at_iso": "2020-06-13T01:11:51.942045",
+            "last_retested_at_epoch": 1592010711.942045,
+            "last_retested_at_iso": "2020-06-13T01:11:51.942045",
+            "status": "INACTIVE"
+        },
+        "vast-f54-de-tmp.adhigh.net": {
+            "included_at_epoch": 1592010712.086443,
+            "included_at_iso": "2020-06-13T01:11:52.086443",
+            "last_retested_at_epoch": 1592010712.086443,
+            "last_retested_at_iso": "2020-06-13T01:11:52.086443",
+            "status": "INACTIVE"
+        },
+        "vast-f55-de-tmp.adhigh.net": {
+            "included_at_epoch": 1592010712.273057,
+            "included_at_iso": "2020-06-13T01:11:52.273057",
+            "last_retested_at_epoch": 1592010712.273057,
+            "last_retested_at_iso": "2020-06-13T01:11:52.273057",
+            "status": "INACTIVE"
+        },
+        "vast-f56-de-tmp.adhigh.net": {
+            "included_at_epoch": 1592010712.179882,
+            "included_at_iso": "2020-06-13T01:11:52.179882",
+            "last_retested_at_epoch": 1592010712.179882,
+            "last_retested_at_iso": "2020-06-13T01:11:52.179882",
+            "status": "INACTIVE"
+        },
+        "vast-f57-de-tmp.adhigh.net": {
+            "included_at_epoch": 1592010712.383212,
+            "included_at_iso": "2020-06-13T01:11:52.383212",
+            "last_retested_at_epoch": 1592010712.383212,
+            "last_retested_at_iso": "2020-06-13T01:11:52.383212",
+            "status": "INACTIVE"
+        },
+        "vast-f6-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010712.570364,
+            "included_at_iso": "2020-06-13T01:11:52.570364",
+            "last_retested_at_epoch": 1592010712.570364,
+            "last_retested_at_iso": "2020-06-13T01:11:52.570364",
+            "status": "INACTIVE"
+        },
+        "vast-f6-us-va.adhigh.net": {
+            "included_at_epoch": 1592010712.476987,
+            "included_at_iso": "2020-06-13T01:11:52.476987",
+            "last_retested_at_epoch": 1592010712.476987,
+            "last_retested_at_iso": "2020-06-13T01:11:52.476987",
+            "status": "INACTIVE"
+        },
+        "vast-f7-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010712.681881,
+            "included_at_iso": "2020-06-13T01:11:52.681881",
+            "last_retested_at_epoch": 1592010712.681881,
+            "last_retested_at_iso": "2020-06-13T01:11:52.681881",
+            "status": "INACTIVE"
+        },
+        "vast-f7-us-va.adhigh.net": {
+            "included_at_epoch": 1592010712.792564,
+            "included_at_iso": "2020-06-13T01:11:52.792564",
+            "last_retested_at_epoch": 1592010712.792564,
+            "last_retested_at_iso": "2020-06-13T01:11:52.792564",
+            "status": "INACTIVE"
+        },
+        "vast-f8-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010712.97931,
+            "included_at_iso": "2020-06-13T01:11:52.979310",
+            "last_retested_at_epoch": 1592010712.97931,
+            "last_retested_at_iso": "2020-06-13T01:11:52.979310",
+            "status": "INACTIVE"
+        },
+        "vast-f8-us-va.adhigh.net": {
+            "included_at_epoch": 1592010712.885893,
+            "included_at_iso": "2020-06-13T01:11:52.885893",
+            "last_retested_at_epoch": 1592010712.885893,
+            "last_retested_at_iso": "2020-06-13T01:11:52.885893",
+            "status": "INACTIVE"
+        },
+        "vast-f9-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010713.090241,
+            "included_at_iso": "2020-06-13T01:11:53.090241",
+            "last_retested_at_epoch": 1592010713.090241,
+            "last_retested_at_iso": "2020-06-13T01:11:53.090241",
+            "status": "INACTIVE"
+        },
+        "vast-f9-us-va.adhigh.net": {
+            "included_at_epoch": 1592010713.27678,
+            "included_at_iso": "2020-06-13T01:11:53.276780",
+            "last_retested_at_epoch": 1592010713.27678,
+            "last_retested_at_iso": "2020-06-13T01:11:53.276780",
+            "status": "INACTIVE"
+        },
+        "vast-ft1-hk.adhigh.net": {
+            "included_at_epoch": 1592010713.183656,
+            "included_at_iso": "2020-06-13T01:11:53.183656",
+            "last_retested_at_epoch": 1592010713.183656,
+            "last_retested_at_iso": "2020-06-13T01:11:53.183656",
+            "status": "INACTIVE"
+        },
         "vast-rtb1.vertamedia.com": {
             "included_at_epoch": 1592005204.94567,
             "included_at_iso": "2020-06-12T23:40:04.945670",
@@ -36776,6 +38421,454 @@
             "included_at_iso": "2020-06-12T23:40:07.985288",
             "last_retested_at_epoch": 1592005207.985288,
             "last_retested_at_iso": "2020-06-12T23:40:07.985288",
+            "status": "INACTIVE"
+        },
+        "vid-cdn.adhigh.net": {
+            "included_at_epoch": 1592010713.815047,
+            "included_at_iso": "2020-06-13T01:11:53.815047",
+            "last_retested_at_epoch": 1592010713.815047,
+            "last_retested_at_iso": "2020-06-13T01:11:53.815047",
+            "status": "INACTIVE"
+        },
+        "vid-f1-de.adhigh.net": {
+            "included_at_epoch": 1592010713.908516,
+            "included_at_iso": "2020-06-13T01:11:53.908516",
+            "last_retested_at_epoch": 1592010713.908516,
+            "last_retested_at_iso": "2020-06-13T01:11:53.908516",
+            "status": "INACTIVE"
+        },
+        "vid-f1-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010714.001438,
+            "included_at_iso": "2020-06-13T01:11:54.001438",
+            "last_retested_at_epoch": 1592010714.001438,
+            "last_retested_at_iso": "2020-06-13T01:11:54.001438",
+            "status": "INACTIVE"
+        },
+        "vid-f1-us-va.adhigh.net": {
+            "included_at_epoch": 1592010714.094531,
+            "included_at_iso": "2020-06-13T01:11:54.094531",
+            "last_retested_at_epoch": 1592010714.094531,
+            "last_retested_at_iso": "2020-06-13T01:11:54.094531",
+            "status": "INACTIVE"
+        },
+        "vid-f10-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010714.280518,
+            "included_at_iso": "2020-06-13T01:11:54.280518",
+            "last_retested_at_epoch": 1592010714.280518,
+            "last_retested_at_iso": "2020-06-13T01:11:54.280518",
+            "status": "INACTIVE"
+        },
+        "vid-f10-us-va.adhigh.net": {
+            "included_at_epoch": 1592010714.187951,
+            "included_at_iso": "2020-06-13T01:11:54.187951",
+            "last_retested_at_epoch": 1592010714.187951,
+            "last_retested_at_iso": "2020-06-13T01:11:54.187951",
+            "status": "INACTIVE"
+        },
+        "vid-f11-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010714.4755,
+            "included_at_iso": "2020-06-13T01:11:54.475500",
+            "last_retested_at_epoch": 1592010714.4755,
+            "last_retested_at_iso": "2020-06-13T01:11:54.475500",
+            "status": "INACTIVE"
+        },
+        "vid-f11-us-va.adhigh.net": {
+            "included_at_epoch": 1592010714.382256,
+            "included_at_iso": "2020-06-13T01:11:54.382256",
+            "last_retested_at_epoch": 1592010714.382256,
+            "last_retested_at_iso": "2020-06-13T01:11:54.382256",
+            "status": "INACTIVE"
+        },
+        "vid-f12-us-va.adhigh.net": {
+            "included_at_epoch": 1592010714.663755,
+            "included_at_iso": "2020-06-13T01:11:54.663755",
+            "last_retested_at_epoch": 1592010714.663755,
+            "last_retested_at_iso": "2020-06-13T01:11:54.663755",
+            "status": "INACTIVE"
+        },
+        "vid-f13-us-va.adhigh.net": {
+            "included_at_epoch": 1592010714.569779,
+            "included_at_iso": "2020-06-13T01:11:54.569779",
+            "last_retested_at_epoch": 1592010714.569779,
+            "last_retested_at_iso": "2020-06-13T01:11:54.569779",
+            "status": "INACTIVE"
+        },
+        "vid-f14-us-va.adhigh.net": {
+            "included_at_epoch": 1592010714.85091,
+            "included_at_iso": "2020-06-13T01:11:54.850910",
+            "last_retested_at_epoch": 1592010714.85091,
+            "last_retested_at_iso": "2020-06-13T01:11:54.850910",
+            "status": "INACTIVE"
+        },
+        "vid-f15-us-va.adhigh.net": {
+            "included_at_epoch": 1592010714.757048,
+            "included_at_iso": "2020-06-13T01:11:54.757048",
+            "last_retested_at_epoch": 1592010714.757048,
+            "last_retested_at_iso": "2020-06-13T01:11:54.757048",
+            "status": "INACTIVE"
+        },
+        "vid-f2-de.adhigh.net": {
+            "included_at_epoch": 1592010715.036323,
+            "included_at_iso": "2020-06-13T01:11:55.036323",
+            "last_retested_at_epoch": 1592010715.036323,
+            "last_retested_at_iso": "2020-06-13T01:11:55.036323",
+            "status": "INACTIVE"
+        },
+        "vid-f2-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010714.943326,
+            "included_at_iso": "2020-06-13T01:11:54.943326",
+            "last_retested_at_epoch": 1592010714.943326,
+            "last_retested_at_iso": "2020-06-13T01:11:54.943326",
+            "status": "INACTIVE"
+        },
+        "vid-f2-us-va.adhigh.net": {
+            "included_at_epoch": 1592010715.221673,
+            "included_at_iso": "2020-06-13T01:11:55.221673",
+            "last_retested_at_epoch": 1592010715.221673,
+            "last_retested_at_iso": "2020-06-13T01:11:55.221673",
+            "status": "INACTIVE"
+        },
+        "vid-f3-de.adhigh.net": {
+            "included_at_epoch": 1592010715.128967,
+            "included_at_iso": "2020-06-13T01:11:55.128967",
+            "last_retested_at_epoch": 1592010715.128967,
+            "last_retested_at_iso": "2020-06-13T01:11:55.128967",
+            "status": "INACTIVE"
+        },
+        "vid-f3-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010715.314563,
+            "included_at_iso": "2020-06-13T01:11:55.314563",
+            "last_retested_at_epoch": 1592010715.314563,
+            "last_retested_at_iso": "2020-06-13T01:11:55.314563",
+            "status": "INACTIVE"
+        },
+        "vid-f3-us-va.adhigh.net": {
+            "included_at_epoch": 1592010715.406723,
+            "included_at_iso": "2020-06-13T01:11:55.406723",
+            "last_retested_at_epoch": 1592010715.406723,
+            "last_retested_at_iso": "2020-06-13T01:11:55.406723",
+            "status": "INACTIVE"
+        },
+        "vid-f4-de.adhigh.net": {
+            "included_at_epoch": 1592010715.593545,
+            "included_at_iso": "2020-06-13T01:11:55.593545",
+            "last_retested_at_epoch": 1592010715.593545,
+            "last_retested_at_iso": "2020-06-13T01:11:55.593545",
+            "status": "INACTIVE"
+        },
+        "vid-f4-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010715.499782,
+            "included_at_iso": "2020-06-13T01:11:55.499782",
+            "last_retested_at_epoch": 1592010715.499782,
+            "last_retested_at_iso": "2020-06-13T01:11:55.499782",
+            "status": "INACTIVE"
+        },
+        "vid-f4-us-va.adhigh.net": {
+            "included_at_epoch": 1592010715.686118,
+            "included_at_iso": "2020-06-13T01:11:55.686118",
+            "last_retested_at_epoch": 1592010715.686118,
+            "last_retested_at_iso": "2020-06-13T01:11:55.686118",
+            "status": "INACTIVE"
+        },
+        "vid-f5-de.adhigh.net": {
+            "included_at_epoch": 1592010715.778119,
+            "included_at_iso": "2020-06-13T01:11:55.778119",
+            "last_retested_at_epoch": 1592010715.778119,
+            "last_retested_at_iso": "2020-06-13T01:11:55.778119",
+            "status": "INACTIVE"
+        },
+        "vid-f5-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010715.87027,
+            "included_at_iso": "2020-06-13T01:11:55.870270",
+            "last_retested_at_epoch": 1592010715.87027,
+            "last_retested_at_iso": "2020-06-13T01:11:55.870270",
+            "status": "INACTIVE"
+        },
+        "vid-f5-us-va.adhigh.net": {
+            "included_at_epoch": 1592010715.962823,
+            "included_at_iso": "2020-06-13T01:11:55.962823",
+            "last_retested_at_epoch": 1592010715.962823,
+            "last_retested_at_iso": "2020-06-13T01:11:55.962823",
+            "status": "INACTIVE"
+        },
+        "vid-f6-de.adhigh.net": {
+            "included_at_epoch": 1592010716.148452,
+            "included_at_iso": "2020-06-13T01:11:56.148452",
+            "last_retested_at_epoch": 1592010716.148452,
+            "last_retested_at_iso": "2020-06-13T01:11:56.148452",
+            "status": "INACTIVE"
+        },
+        "vid-f6-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010716.055249,
+            "included_at_iso": "2020-06-13T01:11:56.055249",
+            "last_retested_at_epoch": 1592010716.055249,
+            "last_retested_at_iso": "2020-06-13T01:11:56.055249",
+            "status": "INACTIVE"
+        },
+        "vid-f6-us-va.adhigh.net": {
+            "included_at_epoch": 1592010716.241328,
+            "included_at_iso": "2020-06-13T01:11:56.241328",
+            "last_retested_at_epoch": 1592010716.241328,
+            "last_retested_at_iso": "2020-06-13T01:11:56.241328",
+            "status": "INACTIVE"
+        },
+        "vid-f7-de.adhigh.net": {
+            "included_at_epoch": 1592010716.333922,
+            "included_at_iso": "2020-06-13T01:11:56.333922",
+            "last_retested_at_epoch": 1592010716.333922,
+            "last_retested_at_iso": "2020-06-13T01:11:56.333922",
+            "status": "INACTIVE"
+        },
+        "vid-f7-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010716.426502,
+            "included_at_iso": "2020-06-13T01:11:56.426502",
+            "last_retested_at_epoch": 1592010716.426502,
+            "last_retested_at_iso": "2020-06-13T01:11:56.426502",
+            "status": "INACTIVE"
+        },
+        "vid-f7-us-va.adhigh.net": {
+            "included_at_epoch": 1592010716.519714,
+            "included_at_iso": "2020-06-13T01:11:56.519714",
+            "last_retested_at_epoch": 1592010716.519714,
+            "last_retested_at_iso": "2020-06-13T01:11:56.519714",
+            "status": "INACTIVE"
+        },
+        "vid-f8-de.adhigh.net": {
+            "included_at_epoch": 1592010716.705222,
+            "included_at_iso": "2020-06-13T01:11:56.705222",
+            "last_retested_at_epoch": 1592010716.705222,
+            "last_retested_at_iso": "2020-06-13T01:11:56.705222",
+            "status": "INACTIVE"
+        },
+        "vid-f8-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010716.613047,
+            "included_at_iso": "2020-06-13T01:11:56.613047",
+            "last_retested_at_epoch": 1592010716.613047,
+            "last_retested_at_iso": "2020-06-13T01:11:56.613047",
+            "status": "INACTIVE"
+        },
+        "vid-f8-us-va.adhigh.net": {
+            "included_at_epoch": 1592010716.798221,
+            "included_at_iso": "2020-06-13T01:11:56.798221",
+            "last_retested_at_epoch": 1592010716.798221,
+            "last_retested_at_iso": "2020-06-13T01:11:56.798221",
+            "status": "INACTIVE"
+        },
+        "vid-f9-de.adhigh.net": {
+            "included_at_epoch": 1592010716.899821,
+            "included_at_iso": "2020-06-13T01:11:56.899821",
+            "last_retested_at_epoch": 1592010716.899821,
+            "last_retested_at_iso": "2020-06-13T01:11:56.899821",
+            "status": "INACTIVE"
+        },
+        "vid-f9-us-ca.adhigh.net": {
+            "included_at_epoch": 1592010716.992978,
+            "included_at_iso": "2020-06-13T01:11:56.992978",
+            "last_retested_at_epoch": 1592010716.992978,
+            "last_retested_at_iso": "2020-06-13T01:11:56.992978",
+            "status": "INACTIVE"
+        },
+        "vid-f9-us-va.adhigh.net": {
+            "included_at_epoch": 1592010717.085723,
+            "included_at_iso": "2020-06-13T01:11:57.085723",
+            "last_retested_at_epoch": 1592010717.085723,
+            "last_retested_at_iso": "2020-06-13T01:11:57.085723",
+            "status": "INACTIVE"
+        },
+        "vid-ft1-de.adhigh.net": {
+            "included_at_epoch": 1592010717.270995,
+            "included_at_iso": "2020-06-13T01:11:57.270995",
+            "last_retested_at_epoch": 1592010717.270995,
+            "last_retested_at_iso": "2020-06-13T01:11:57.270995",
+            "status": "INACTIVE"
+        },
+        "vid-ft1-hk.adhigh.net": {
+            "included_at_epoch": 1592010717.178137,
+            "included_at_iso": "2020-06-13T01:11:57.178137",
+            "last_retested_at_epoch": 1592010717.178137,
+            "last_retested_at_iso": "2020-06-13T01:11:57.178137",
+            "status": "INACTIVE"
+        },
+        "vid-ft1-us.adhigh.net": {
+            "included_at_epoch": 1592010717.364076,
+            "included_at_iso": "2020-06-13T01:11:57.364076",
+            "last_retested_at_epoch": 1592010717.364076,
+            "last_retested_at_iso": "2020-06-13T01:11:57.364076",
+            "status": "INACTIVE"
+        },
+        "vid-ft10-us.adhigh.net": {
+            "included_at_epoch": 1592010717.456959,
+            "included_at_iso": "2020-06-13T01:11:57.456959",
+            "last_retested_at_epoch": 1592010717.456959,
+            "last_retested_at_iso": "2020-06-13T01:11:57.456959",
+            "status": "INACTIVE"
+        },
+        "vid-ft11-us.adhigh.net": {
+            "included_at_epoch": 1592010717.550271,
+            "included_at_iso": "2020-06-13T01:11:57.550271",
+            "last_retested_at_epoch": 1592010717.550271,
+            "last_retested_at_iso": "2020-06-13T01:11:57.550271",
+            "status": "INACTIVE"
+        },
+        "vid-ft12-us.adhigh.net": {
+            "included_at_epoch": 1592010717.643378,
+            "included_at_iso": "2020-06-13T01:11:57.643378",
+            "last_retested_at_epoch": 1592010717.643378,
+            "last_retested_at_iso": "2020-06-13T01:11:57.643378",
+            "status": "INACTIVE"
+        },
+        "vid-ft13-us.adhigh.net": {
+            "included_at_epoch": 1592010717.736408,
+            "included_at_iso": "2020-06-13T01:11:57.736408",
+            "last_retested_at_epoch": 1592010717.736408,
+            "last_retested_at_iso": "2020-06-13T01:11:57.736408",
+            "status": "INACTIVE"
+        },
+        "vid-ft14-us.adhigh.net": {
+            "included_at_epoch": 1592010717.829696,
+            "included_at_iso": "2020-06-13T01:11:57.829696",
+            "last_retested_at_epoch": 1592010717.829696,
+            "last_retested_at_iso": "2020-06-13T01:11:57.829696",
+            "status": "INACTIVE"
+        },
+        "vid-ft15-us.adhigh.net": {
+            "included_at_epoch": 1592010717.922653,
+            "included_at_iso": "2020-06-13T01:11:57.922653",
+            "last_retested_at_epoch": 1592010717.922653,
+            "last_retested_at_iso": "2020-06-13T01:11:57.922653",
+            "status": "INACTIVE"
+        },
+        "vid-ft16-us.adhigh.net": {
+            "included_at_epoch": 1592010718.015061,
+            "included_at_iso": "2020-06-13T01:11:58.015061",
+            "last_retested_at_epoch": 1592010718.015061,
+            "last_retested_at_iso": "2020-06-13T01:11:58.015061",
+            "status": "INACTIVE"
+        },
+        "vid-ft17-us.adhigh.net": {
+            "included_at_epoch": 1592010718.10786,
+            "included_at_iso": "2020-06-13T01:11:58.107860",
+            "last_retested_at_epoch": 1592010718.10786,
+            "last_retested_at_iso": "2020-06-13T01:11:58.107860",
+            "status": "INACTIVE"
+        },
+        "vid-ft18-us.adhigh.net": {
+            "included_at_epoch": 1592010718.201475,
+            "included_at_iso": "2020-06-13T01:11:58.201475",
+            "last_retested_at_epoch": 1592010718.201475,
+            "last_retested_at_iso": "2020-06-13T01:11:58.201475",
+            "status": "INACTIVE"
+        },
+        "vid-ft2-de.adhigh.net": {
+            "included_at_epoch": 1592010718.387952,
+            "included_at_iso": "2020-06-13T01:11:58.387952",
+            "last_retested_at_epoch": 1592010718.387952,
+            "last_retested_at_iso": "2020-06-13T01:11:58.387952",
+            "status": "INACTIVE"
+        },
+        "vid-ft2-us.adhigh.net": {
+            "included_at_epoch": 1592010718.294972,
+            "included_at_iso": "2020-06-13T01:11:58.294972",
+            "last_retested_at_epoch": 1592010718.294972,
+            "last_retested_at_iso": "2020-06-13T01:11:58.294972",
+            "status": "INACTIVE"
+        },
+        "vid-ft3-de.adhigh.net": {
+            "included_at_epoch": 1592010718.481044,
+            "included_at_iso": "2020-06-13T01:11:58.481044",
+            "last_retested_at_epoch": 1592010718.481044,
+            "last_retested_at_iso": "2020-06-13T01:11:58.481044",
+            "status": "INACTIVE"
+        },
+        "vid-ft3-us.adhigh.net": {
+            "included_at_epoch": 1592010718.574337,
+            "included_at_iso": "2020-06-13T01:11:58.574337",
+            "last_retested_at_epoch": 1592010718.574337,
+            "last_retested_at_iso": "2020-06-13T01:11:58.574337",
+            "status": "INACTIVE"
+        },
+        "vid-ft4-de.adhigh.net": {
+            "included_at_epoch": 1592010718.76108,
+            "included_at_iso": "2020-06-13T01:11:58.761080",
+            "last_retested_at_epoch": 1592010718.76108,
+            "last_retested_at_iso": "2020-06-13T01:11:58.761080",
+            "status": "INACTIVE"
+        },
+        "vid-ft4-us.adhigh.net": {
+            "included_at_epoch": 1592010718.667869,
+            "included_at_iso": "2020-06-13T01:11:58.667869",
+            "last_retested_at_epoch": 1592010718.667869,
+            "last_retested_at_iso": "2020-06-13T01:11:58.667869",
+            "status": "INACTIVE"
+        },
+        "vid-ft5-de.adhigh.net": {
+            "included_at_epoch": 1592010718.853909,
+            "included_at_iso": "2020-06-13T01:11:58.853909",
+            "last_retested_at_epoch": 1592010718.853909,
+            "last_retested_at_iso": "2020-06-13T01:11:58.853909",
+            "status": "INACTIVE"
+        },
+        "vid-ft5-us.adhigh.net": {
+            "included_at_epoch": 1592010718.947487,
+            "included_at_iso": "2020-06-13T01:11:58.947487",
+            "last_retested_at_epoch": 1592010718.947487,
+            "last_retested_at_iso": "2020-06-13T01:11:58.947487",
+            "status": "INACTIVE"
+        },
+        "vid-ft6-de.adhigh.net": {
+            "included_at_epoch": 1592010719.040517,
+            "included_at_iso": "2020-06-13T01:11:59.040517",
+            "last_retested_at_epoch": 1592010719.040517,
+            "last_retested_at_iso": "2020-06-13T01:11:59.040517",
+            "status": "INACTIVE"
+        },
+        "vid-ft6-us.adhigh.net": {
+            "included_at_epoch": 1592010719.142402,
+            "included_at_iso": "2020-06-13T01:11:59.142402",
+            "last_retested_at_epoch": 1592010719.142402,
+            "last_retested_at_iso": "2020-06-13T01:11:59.142402",
+            "status": "INACTIVE"
+        },
+        "vid-ft7-de.adhigh.net": {
+            "included_at_epoch": 1592010719.235341,
+            "included_at_iso": "2020-06-13T01:11:59.235341",
+            "last_retested_at_epoch": 1592010719.235341,
+            "last_retested_at_iso": "2020-06-13T01:11:59.235341",
+            "status": "INACTIVE"
+        },
+        "vid-ft7-us.adhigh.net": {
+            "included_at_epoch": 1592010719.329141,
+            "included_at_iso": "2020-06-13T01:11:59.329141",
+            "last_retested_at_epoch": 1592010719.329141,
+            "last_retested_at_iso": "2020-06-13T01:11:59.329141",
+            "status": "INACTIVE"
+        },
+        "vid-ft8-de.adhigh.net": {
+            "included_at_epoch": 1592010719.515969,
+            "included_at_iso": "2020-06-13T01:11:59.515969",
+            "last_retested_at_epoch": 1592010719.515969,
+            "last_retested_at_iso": "2020-06-13T01:11:59.515969",
+            "status": "INACTIVE"
+        },
+        "vid-ft8-us.adhigh.net": {
+            "included_at_epoch": 1592010719.422602,
+            "included_at_iso": "2020-06-13T01:11:59.422602",
+            "last_retested_at_epoch": 1592010719.422602,
+            "last_retested_at_iso": "2020-06-13T01:11:59.422602",
+            "status": "INACTIVE"
+        },
+        "vid-ft9-us.adhigh.net": {
+            "included_at_epoch": 1592010719.609459,
+            "included_at_iso": "2020-06-13T01:11:59.609459",
+            "last_retested_at_epoch": 1592010719.609459,
+            "last_retested_at_iso": "2020-06-13T01:11:59.609459",
+            "status": "INACTIVE"
+        },
+        "vid-px.adhigh.net": {
+            "included_at_epoch": 1592010719.70247,
+            "included_at_iso": "2020-06-13T01:11:59.702470",
+            "last_retested_at_epoch": 1592010719.70247,
+            "last_retested_at_iso": "2020-06-13T01:11:59.702470",
             "status": "INACTIVE"
         },
         "vid.atdmt.com": {
@@ -37835,6 +39928,13 @@
             "last_retested_at_iso": "2020-06-13T00:54:04.110318",
             "status": "INACTIVE"
         },
+        "www.actionx.com": {
+            "included_at_epoch": 1592010719.79572,
+            "included_at_iso": "2020-06-13T01:11:59.795720",
+            "last_retested_at_epoch": 1592010719.79572,
+            "last_retested_at_iso": "2020-06-13T01:11:59.795720",
+            "status": "INACTIVE"
+        },
         "www.ad.adlegend.com": {
             "included_at_epoch": 1592009655.241582,
             "included_at_iso": "2020-06-13T00:54:15.241582",
@@ -38696,6 +40796,27 @@
             "last_retested_at_iso": "2020-06-13T00:36:29.142929",
             "status": "INACTIVE"
         },
+        "www.ft1-de.adhigh.net": {
+            "included_at_epoch": 1592010692.13355,
+            "included_at_iso": "2020-06-13T01:11:32.133550",
+            "last_retested_at_epoch": 1592010692.13355,
+            "last_retested_at_iso": "2020-06-13T01:11:32.133550",
+            "status": "INACTIVE"
+        },
+        "www.ft2-de.adhigh.net": {
+            "included_at_epoch": 1592010693.295806,
+            "included_at_iso": "2020-06-13T01:11:33.295806",
+            "last_retested_at_epoch": 1592010693.295806,
+            "last_retested_at_iso": "2020-06-13T01:11:33.295806",
+            "status": "INACTIVE"
+        },
+        "www.ft3-de.adhigh.net": {
+            "included_at_epoch": 1592010693.653296,
+            "included_at_iso": "2020-06-13T01:11:33.653296",
+            "last_retested_at_epoch": 1592010693.653296,
+            "last_retested_at_iso": "2020-06-13T01:11:33.653296",
+            "status": "INACTIVE"
+        },
         "www.g.scorecardresearch.com": {
             "included_at_epoch": 1592008591.447992,
             "included_at_iso": "2020-06-13T00:36:31.447992",
@@ -39114,6 +41235,13 @@
             "included_at_iso": "2020-06-13T00:36:35.113320",
             "last_retested_at_epoch": 1592008595.11332,
             "last_retested_at_iso": "2020-06-13T00:36:35.113320",
+            "status": "INACTIVE"
+        },
+        "www.lp.actionx.com": {
+            "included_at_epoch": 1592010720.169128,
+            "included_at_iso": "2020-06-13T01:12:00.169128",
+            "last_retested_at_epoch": 1592010720.169128,
+            "last_retested_at_iso": "2020-06-13T01:12:00.169128",
             "status": "INACTIVE"
         },
         "www.lp.outbrain.com": {
@@ -39583,6 +41711,20 @@
             "included_at_iso": "2020-06-13T00:54:05.154111",
             "last_retested_at_epoch": 1592009645.154111,
             "last_retested_at_iso": "2020-06-13T00:54:05.154111",
+            "status": "INACTIVE"
+        },
+        "www.px.adhigh.net": {
+            "included_at_epoch": 1592010703.845285,
+            "included_at_iso": "2020-06-13T01:11:43.845285",
+            "last_retested_at_epoch": 1592010703.845285,
+            "last_retested_at_iso": "2020-06-13T01:11:43.845285",
+            "status": "INACTIVE"
+        },
+        "www.px3.adhigh.net": {
+            "included_at_epoch": 1592010704.33211,
+            "included_at_iso": "2020-06-13T01:11:44.332110",
+            "last_retested_at_epoch": 1592010704.33211,
+            "last_retested_at_iso": "2020-06-13T01:11:44.332110",
             "status": "INACTIVE"
         },
         "www.qa2-h-api.online-metrix.net": {
@@ -40150,6 +42292,34 @@
             "included_at_iso": "2020-06-13T00:36:49.130369",
             "last_retested_at_epoch": 1592008609.130369,
             "last_retested_at_iso": "2020-06-13T00:36:49.130369",
+            "status": "INACTIVE"
+        },
+        "www.vast-hm-bean.adhigh.net": {
+            "included_at_epoch": 1592010713.387352,
+            "included_at_iso": "2020-06-13T01:11:53.387352",
+            "last_retested_at_epoch": 1592010713.387352,
+            "last_retested_at_iso": "2020-06-13T01:11:53.387352",
+            "status": "INACTIVE"
+        },
+        "www.vast-hm-events.adhigh.net": {
+            "included_at_epoch": 1592010713.498505,
+            "included_at_iso": "2020-06-13T01:11:53.498505",
+            "last_retested_at_epoch": 1592010713.498505,
+            "last_retested_at_iso": "2020-06-13T01:11:53.498505",
+            "status": "INACTIVE"
+        },
+        "www.vast-hm-events2.adhigh.net": {
+            "included_at_epoch": 1592010713.610109,
+            "included_at_iso": "2020-06-13T01:11:53.610109",
+            "last_retested_at_epoch": 1592010713.610109,
+            "last_retested_at_iso": "2020-06-13T01:11:53.610109",
+            "status": "INACTIVE"
+        },
+        "www.vast-hm-sync.adhigh.net": {
+            "included_at_epoch": 1592010713.721545,
+            "included_at_iso": "2020-06-13T01:11:53.721545",
+            "last_retested_at_epoch": 1592010713.721545,
+            "last_retested_at_iso": "2020-06-13T01:11:53.721545",
             "status": "INACTIVE"
         },
         "www.vastproxy.brand.inmobi.com": {
