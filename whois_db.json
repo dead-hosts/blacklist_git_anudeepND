@@ -399,6 +399,11 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "audiencetrust.com": {
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "state": "future"
+    },
     "avir28.com": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
