@@ -266,6 +266,76 @@
             "last_retested_at_iso": "2020-06-16T07:06:39.876873",
             "status": "INACTIVE"
         },
+        "as01.casalemedia.com": {
+            "included_at_epoch": 1594451050.535395,
+            "included_at_iso": "2020-07-11T07:04:10.535395",
+            "last_retested_at_epoch": 1594451050.535395,
+            "last_retested_at_iso": "2020-07-11T07:04:10.535395",
+            "status": "INACTIVE"
+        },
+        "as02.casalemedia.com": {
+            "included_at_epoch": 1594451050.555392,
+            "included_at_iso": "2020-07-11T07:04:10.555392",
+            "last_retested_at_epoch": 1594451050.555392,
+            "last_retested_at_iso": "2020-07-11T07:04:10.555392",
+            "status": "INACTIVE"
+        },
+        "as03.casalemedia.com": {
+            "included_at_epoch": 1594451050.596432,
+            "included_at_iso": "2020-07-11T07:04:10.596432",
+            "last_retested_at_epoch": 1594451050.596432,
+            "last_retested_at_iso": "2020-07-11T07:04:10.596432",
+            "status": "INACTIVE"
+        },
+        "as04.casalemedia.com": {
+            "included_at_epoch": 1594451050.575716,
+            "included_at_iso": "2020-07-11T07:04:10.575716",
+            "last_retested_at_epoch": 1594451050.575716,
+            "last_retested_at_iso": "2020-07-11T07:04:10.575716",
+            "status": "INACTIVE"
+        },
+        "as05.casalemedia.com": {
+            "included_at_epoch": 1594451050.616813,
+            "included_at_iso": "2020-07-11T07:04:10.616813",
+            "last_retested_at_epoch": 1594451050.616813,
+            "last_retested_at_iso": "2020-07-11T07:04:10.616813",
+            "status": "INACTIVE"
+        },
+        "as06.casalemedia.com": {
+            "included_at_epoch": 1594451050.6367,
+            "included_at_iso": "2020-07-11T07:04:10.636700",
+            "last_retested_at_epoch": 1594451050.6367,
+            "last_retested_at_iso": "2020-07-11T07:04:10.636700",
+            "status": "INACTIVE"
+        },
+        "as07.casalemedia.com": {
+            "included_at_epoch": 1594451050.676527,
+            "included_at_iso": "2020-07-11T07:04:10.676527",
+            "last_retested_at_epoch": 1594451050.676527,
+            "last_retested_at_iso": "2020-07-11T07:04:10.676527",
+            "status": "INACTIVE"
+        },
+        "as08.casalemedia.com": {
+            "included_at_epoch": 1594451050.656705,
+            "included_at_iso": "2020-07-11T07:04:10.656705",
+            "last_retested_at_epoch": 1594451050.656705,
+            "last_retested_at_iso": "2020-07-11T07:04:10.656705",
+            "status": "INACTIVE"
+        },
+        "as09.casalemedia.com": {
+            "included_at_epoch": 1594451050.716777,
+            "included_at_iso": "2020-07-11T07:04:10.716777",
+            "last_retested_at_epoch": 1594451050.716777,
+            "last_retested_at_iso": "2020-07-11T07:04:10.716777",
+            "status": "INACTIVE"
+        },
+        "as10.casalemedia.com": {
+            "included_at_epoch": 1594451050.696465,
+            "included_at_iso": "2020-07-11T07:04:10.696465",
+            "last_retested_at_epoch": 1594451050.696465,
+            "last_retested_at_iso": "2020-07-11T07:04:10.696465",
+            "status": "INACTIVE"
+        },
         "bathbody.btttag.com": {
             "included_at_epoch": 1592291200.014644,
             "included_at_iso": "2020-06-16T07:06:40.014644",
@@ -511,6 +581,20 @@
             "last_retested_at_iso": "2020-06-16T07:06:42.375113",
             "status": "INACTIVE"
         },
+        "dns01.casalemedia.com": {
+            "included_at_epoch": 1594451051.26274,
+            "included_at_iso": "2020-07-11T07:04:11.262740",
+            "last_retested_at_epoch": 1594451051.26274,
+            "last_retested_at_iso": "2020-07-11T07:04:11.262740",
+            "status": "INACTIVE"
+        },
+        "dns02.casalemedia.com": {
+            "included_at_epoch": 1594451051.324779,
+            "included_at_iso": "2020-07-11T07:04:11.324779",
+            "last_retested_at_epoch": 1594451051.324779,
+            "last_retested_at_iso": "2020-07-11T07:04:11.324779",
+            "status": "INACTIVE"
+        },
         "download.brightroll.com": {
             "included_at_epoch": 1592291197.642174,
             "included_at_iso": "2020-06-16T07:06:37.642174",
@@ -530,6 +614,27 @@
             "included_at_iso": "2020-06-16T07:06:42.571707",
             "last_retested_at_epoch": 1592291202.571707,
             "last_retested_at_iso": "2020-06-16T07:06:42.571707",
+            "status": "INACTIVE"
+        },
+        "eqix-dc2.casalemedia.com": {
+            "included_at_epoch": 1594451051.409148,
+            "included_at_iso": "2020-07-11T07:04:11.409148",
+            "last_retested_at_epoch": 1594451051.409148,
+            "last_retested_at_iso": "2020-07-11T07:04:11.409148",
+            "status": "INACTIVE"
+        },
+        "eqix-ema-ny.casalemedia.com": {
+            "included_at_epoch": 1594451051.389125,
+            "included_at_iso": "2020-07-11T07:04:11.389125",
+            "last_retested_at_epoch": 1594451051.389125,
+            "last_retested_at_iso": "2020-07-11T07:04:11.389125",
+            "status": "INACTIVE"
+        },
+        "eqix-sv4.casalemedia.com": {
+            "included_at_epoch": 1594451051.429816,
+            "included_at_iso": "2020-07-11T07:04:11.429816",
+            "last_retested_at_epoch": 1594451051.429816,
+            "last_retested_at_iso": "2020-07-11T07:04:11.429816",
             "status": "INACTIVE"
         },
         "everythingyoga.btttag.com": {
@@ -567,6 +672,20 @@
             "last_retested_at_iso": "2020-06-16T07:06:42.889763",
             "status": "INACTIVE"
         },
+        "gui.casalemedia.com": {
+            "included_at_epoch": 1594451051.573589,
+            "included_at_iso": "2020-07-11T07:04:11.573589",
+            "last_retested_at_epoch": 1594451051.573589,
+            "last_retested_at_iso": "2020-07-11T07:04:11.573589",
+            "status": "INACTIVE"
+        },
+        "gui03.casalemedia.com": {
+            "included_at_epoch": 1594451051.614772,
+            "included_at_iso": "2020-07-11T07:04:11.614772",
+            "last_retested_at_epoch": 1594451051.614772,
+            "last_retested_at_iso": "2020-07-11T07:04:11.614772",
+            "status": "INACTIVE"
+        },
         "hpstore.btttag.com": {
             "included_at_epoch": 1592291203.15496,
             "included_at_iso": "2020-06-16T07:06:43.154960",
@@ -586,6 +705,265 @@
             "included_at_iso": "2020-06-16T07:06:34.820832",
             "last_retested_at_epoch": 1592291194.820832,
             "last_retested_at_iso": "2020-06-16T07:06:34.820832",
+            "status": "INACTIVE"
+        },
+        "i014.casalemedia.com": {
+            "included_at_epoch": 1594451051.938464,
+            "included_at_iso": "2020-07-11T07:04:11.938464",
+            "last_retested_at_epoch": 1594451051.938464,
+            "last_retested_at_iso": "2020-07-11T07:04:11.938464",
+            "status": "INACTIVE"
+        },
+        "i016.casalemedia.com": {
+            "included_at_epoch": 1594451051.918059,
+            "included_at_iso": "2020-07-11T07:04:11.918059",
+            "last_retested_at_epoch": 1594451051.918059,
+            "last_retested_at_iso": "2020-07-11T07:04:11.918059",
+            "status": "INACTIVE"
+        },
+        "i018.casalemedia.com": {
+            "included_at_epoch": 1594451051.979684,
+            "included_at_iso": "2020-07-11T07:04:11.979684",
+            "last_retested_at_epoch": 1594451051.979684,
+            "last_retested_at_iso": "2020-07-11T07:04:11.979684",
+            "status": "INACTIVE"
+        },
+        "i020.casalemedia.com": {
+            "included_at_epoch": 1594451051.959098,
+            "included_at_iso": "2020-07-11T07:04:11.959098",
+            "last_retested_at_epoch": 1594451051.959098,
+            "last_retested_at_iso": "2020-07-11T07:04:11.959098",
+            "status": "INACTIVE"
+        },
+        "i021.casalemedia.com": {
+            "included_at_epoch": 1594451051.999596,
+            "included_at_iso": "2020-07-11T07:04:11.999596",
+            "last_retested_at_epoch": 1594451051.999596,
+            "last_retested_at_iso": "2020-07-11T07:04:11.999596",
+            "status": "INACTIVE"
+        },
+        "i024.casalemedia.com": {
+            "included_at_epoch": 1594451052.020142,
+            "included_at_iso": "2020-07-11T07:04:12.020142",
+            "last_retested_at_epoch": 1594451052.020142,
+            "last_retested_at_iso": "2020-07-11T07:04:12.020142",
+            "status": "INACTIVE"
+        },
+        "i025.casalemedia.com": {
+            "included_at_epoch": 1594451052.060611,
+            "included_at_iso": "2020-07-11T07:04:12.060611",
+            "last_retested_at_epoch": 1594451052.060611,
+            "last_retested_at_iso": "2020-07-11T07:04:12.060611",
+            "status": "INACTIVE"
+        },
+        "i026.casalemedia.com": {
+            "included_at_epoch": 1594451052.040071,
+            "included_at_iso": "2020-07-11T07:04:12.040071",
+            "last_retested_at_epoch": 1594451052.040071,
+            "last_retested_at_iso": "2020-07-11T07:04:12.040071",
+            "status": "INACTIVE"
+        },
+        "i027.casalemedia.com": {
+            "included_at_epoch": 1594451052.080434,
+            "included_at_iso": "2020-07-11T07:04:12.080434",
+            "last_retested_at_epoch": 1594451052.080434,
+            "last_retested_at_iso": "2020-07-11T07:04:12.080434",
+            "status": "INACTIVE"
+        },
+        "i028.casalemedia.com": {
+            "included_at_epoch": 1594451052.101259,
+            "included_at_iso": "2020-07-11T07:04:12.101259",
+            "last_retested_at_epoch": 1594451052.101259,
+            "last_retested_at_iso": "2020-07-11T07:04:12.101259",
+            "status": "INACTIVE"
+        },
+        "i029.casalemedia.com": {
+            "included_at_epoch": 1594451052.12128,
+            "included_at_iso": "2020-07-11T07:04:12.121280",
+            "last_retested_at_epoch": 1594451052.12128,
+            "last_retested_at_iso": "2020-07-11T07:04:12.121280",
+            "status": "INACTIVE"
+        },
+        "i030.casalemedia.com": {
+            "included_at_epoch": 1594451052.14206,
+            "included_at_iso": "2020-07-11T07:04:12.142060",
+            "last_retested_at_epoch": 1594451052.14206,
+            "last_retested_at_iso": "2020-07-11T07:04:12.142060",
+            "status": "INACTIVE"
+        },
+        "i031.casalemedia.com": {
+            "included_at_epoch": 1594451052.182524,
+            "included_at_iso": "2020-07-11T07:04:12.182524",
+            "last_retested_at_epoch": 1594451052.182524,
+            "last_retested_at_iso": "2020-07-11T07:04:12.182524",
+            "status": "INACTIVE"
+        },
+        "i034.casalemedia.com": {
+            "included_at_epoch": 1594451052.162492,
+            "included_at_iso": "2020-07-11T07:04:12.162492",
+            "last_retested_at_epoch": 1594451052.162492,
+            "last_retested_at_iso": "2020-07-11T07:04:12.162492",
+            "status": "INACTIVE"
+        },
+        "i035.casalemedia.com": {
+            "included_at_epoch": 1594451052.202541,
+            "included_at_iso": "2020-07-11T07:04:12.202541",
+            "last_retested_at_epoch": 1594451052.202541,
+            "last_retested_at_iso": "2020-07-11T07:04:12.202541",
+            "status": "INACTIVE"
+        },
+        "i041.casalemedia.com": {
+            "included_at_epoch": 1594451052.223336,
+            "included_at_iso": "2020-07-11T07:04:12.223336",
+            "last_retested_at_epoch": 1594451052.223336,
+            "last_retested_at_iso": "2020-07-11T07:04:12.223336",
+            "status": "INACTIVE"
+        },
+        "i048.casalemedia.com": {
+            "included_at_epoch": 1594451052.243781,
+            "included_at_iso": "2020-07-11T07:04:12.243781",
+            "last_retested_at_epoch": 1594451052.243781,
+            "last_retested_at_iso": "2020-07-11T07:04:12.243781",
+            "status": "INACTIVE"
+        },
+        "i049.casalemedia.com": {
+            "included_at_epoch": 1594451052.264282,
+            "included_at_iso": "2020-07-11T07:04:12.264282",
+            "last_retested_at_epoch": 1594451052.264282,
+            "last_retested_at_iso": "2020-07-11T07:04:12.264282",
+            "status": "INACTIVE"
+        },
+        "i050.casalemedia.com": {
+            "included_at_epoch": 1594451052.304909,
+            "included_at_iso": "2020-07-11T07:04:12.304909",
+            "last_retested_at_epoch": 1594451052.304909,
+            "last_retested_at_iso": "2020-07-11T07:04:12.304909",
+            "status": "INACTIVE"
+        },
+        "i052.casalemedia.com": {
+            "included_at_epoch": 1594451052.284412,
+            "included_at_iso": "2020-07-11T07:04:12.284412",
+            "last_retested_at_epoch": 1594451052.284412,
+            "last_retested_at_iso": "2020-07-11T07:04:12.284412",
+            "status": "INACTIVE"
+        },
+        "i053.casalemedia.com": {
+            "included_at_epoch": 1594451052.346436,
+            "included_at_iso": "2020-07-11T07:04:12.346436",
+            "last_retested_at_epoch": 1594451052.346436,
+            "last_retested_at_iso": "2020-07-11T07:04:12.346436",
+            "status": "INACTIVE"
+        },
+        "i054.casalemedia.com": {
+            "included_at_epoch": 1594451052.325557,
+            "included_at_iso": "2020-07-11T07:04:12.325557",
+            "last_retested_at_epoch": 1594451052.325557,
+            "last_retested_at_iso": "2020-07-11T07:04:12.325557",
+            "status": "INACTIVE"
+        },
+        "i055.casalemedia.com": {
+            "included_at_epoch": 1594451052.367226,
+            "included_at_iso": "2020-07-11T07:04:12.367226",
+            "last_retested_at_epoch": 1594451052.367226,
+            "last_retested_at_iso": "2020-07-11T07:04:12.367226",
+            "status": "INACTIVE"
+        },
+        "i056.casalemedia.com": {
+            "included_at_epoch": 1594451052.388187,
+            "included_at_iso": "2020-07-11T07:04:12.388187",
+            "last_retested_at_epoch": 1594451052.388187,
+            "last_retested_at_iso": "2020-07-11T07:04:12.388187",
+            "status": "INACTIVE"
+        },
+        "i057.casalemedia.com": {
+            "included_at_epoch": 1594451052.428585,
+            "included_at_iso": "2020-07-11T07:04:12.428585",
+            "last_retested_at_epoch": 1594451052.428585,
+            "last_retested_at_iso": "2020-07-11T07:04:12.428585",
+            "status": "INACTIVE"
+        },
+        "i058.casalemedia.com": {
+            "included_at_epoch": 1594451052.408181,
+            "included_at_iso": "2020-07-11T07:04:12.408181",
+            "last_retested_at_epoch": 1594451052.408181,
+            "last_retested_at_iso": "2020-07-11T07:04:12.408181",
+            "status": "INACTIVE"
+        },
+        "i059.casalemedia.com": {
+            "included_at_epoch": 1594451052.469898,
+            "included_at_iso": "2020-07-11T07:04:12.469898",
+            "last_retested_at_epoch": 1594451052.469898,
+            "last_retested_at_iso": "2020-07-11T07:04:12.469898",
+            "status": "INACTIVE"
+        },
+        "i060.casalemedia.com": {
+            "included_at_epoch": 1594451052.449711,
+            "included_at_iso": "2020-07-11T07:04:12.449711",
+            "last_retested_at_epoch": 1594451052.449711,
+            "last_retested_at_iso": "2020-07-11T07:04:12.449711",
+            "status": "INACTIVE"
+        },
+        "i061.casalemedia.com": {
+            "included_at_epoch": 1594451052.490707,
+            "included_at_iso": "2020-07-11T07:04:12.490707",
+            "last_retested_at_epoch": 1594451052.490707,
+            "last_retested_at_iso": "2020-07-11T07:04:12.490707",
+            "status": "INACTIVE"
+        },
+        "i062.casalemedia.com": {
+            "included_at_epoch": 1594451052.511723,
+            "included_at_iso": "2020-07-11T07:04:12.511723",
+            "last_retested_at_epoch": 1594451052.511723,
+            "last_retested_at_iso": "2020-07-11T07:04:12.511723",
+            "status": "INACTIVE"
+        },
+        "i063.casalemedia.com": {
+            "included_at_epoch": 1594451052.532588,
+            "included_at_iso": "2020-07-11T07:04:12.532588",
+            "last_retested_at_epoch": 1594451052.532588,
+            "last_retested_at_iso": "2020-07-11T07:04:12.532588",
+            "status": "INACTIVE"
+        },
+        "i064.casalemedia.com": {
+            "included_at_epoch": 1594451052.553285,
+            "included_at_iso": "2020-07-11T07:04:12.553285",
+            "last_retested_at_epoch": 1594451052.553285,
+            "last_retested_at_iso": "2020-07-11T07:04:12.553285",
+            "status": "INACTIVE"
+        },
+        "i066.casalemedia.com": {
+            "included_at_epoch": 1594451052.573752,
+            "included_at_iso": "2020-07-11T07:04:12.573752",
+            "last_retested_at_epoch": 1594451052.573752,
+            "last_retested_at_iso": "2020-07-11T07:04:12.573752",
+            "status": "INACTIVE"
+        },
+        "i067.casalemedia.com": {
+            "included_at_epoch": 1594451052.614711,
+            "included_at_iso": "2020-07-11T07:04:12.614711",
+            "last_retested_at_epoch": 1594451052.614711,
+            "last_retested_at_iso": "2020-07-11T07:04:12.614711",
+            "status": "INACTIVE"
+        },
+        "i068.casalemedia.com": {
+            "included_at_epoch": 1594451052.635012,
+            "included_at_iso": "2020-07-11T07:04:12.635012",
+            "last_retested_at_epoch": 1594451052.635012,
+            "last_retested_at_iso": "2020-07-11T07:04:12.635012",
+            "status": "INACTIVE"
+        },
+        "i069.casalemedia.com": {
+            "included_at_epoch": 1594451052.676796,
+            "included_at_iso": "2020-07-11T07:04:12.676796",
+            "last_retested_at_epoch": 1594451052.676796,
+            "last_retested_at_iso": "2020-07-11T07:04:12.676796",
+            "status": "INACTIVE"
+        },
+        "i070.casalemedia.com": {
+            "included_at_epoch": 1594451052.655681,
+            "included_at_iso": "2020-07-11T07:04:12.655681",
+            "last_retested_at_epoch": 1594451052.655681,
+            "last_retested_at_iso": "2020-07-11T07:04:12.655681",
             "status": "INACTIVE"
         },
         "info.brightroll.com": {
@@ -635,6 +1013,27 @@
             "included_at_iso": "2020-07-11T02:08:35.492837",
             "last_retested_at_epoch": 1594433315.492837,
             "last_retested_at_iso": "2020-07-11T02:08:35.492837",
+            "status": "INACTIVE"
+        },
+        "lb02.casalemedia.com": {
+            "included_at_epoch": 1594451052.835695,
+            "included_at_iso": "2020-07-11T07:04:12.835695",
+            "last_retested_at_epoch": 1594451052.835695,
+            "last_retested_at_iso": "2020-07-11T07:04:12.835695",
+            "status": "INACTIVE"
+        },
+        "lb03.casalemedia.com": {
+            "included_at_epoch": 1594451052.856402,
+            "included_at_iso": "2020-07-11T07:04:12.856402",
+            "last_retested_at_epoch": 1594451052.856402,
+            "last_retested_at_iso": "2020-07-11T07:04:12.856402",
+            "status": "INACTIVE"
+        },
+        "lb04.casalemedia.com": {
+            "included_at_epoch": 1594451052.877111,
+            "included_at_iso": "2020-07-11T07:04:12.877111",
+            "last_retested_at_epoch": 1594451052.877111,
+            "last_retested_at_iso": "2020-07-11T07:04:12.877111",
             "status": "INACTIVE"
         },
         "lbip1170.nym2.appnexus.com": {
@@ -826,6 +1225,27 @@
             "last_retested_at_iso": "2020-06-16T07:06:45.046900",
             "status": "INACTIVE"
         },
+        "mw.casalemedia.com": {
+            "included_at_epoch": 1594451052.897303,
+            "included_at_iso": "2020-07-11T07:04:12.897303",
+            "last_retested_at_epoch": 1594451052.897303,
+            "last_retested_at_iso": "2020-07-11T07:04:12.897303",
+            "status": "INACTIVE"
+        },
+        "mw01.casalemedia.com": {
+            "included_at_epoch": 1594451052.917756,
+            "included_at_iso": "2020-07-11T07:04:12.917756",
+            "last_retested_at_epoch": 1594451052.917756,
+            "last_retested_at_iso": "2020-07-11T07:04:12.917756",
+            "status": "INACTIVE"
+        },
+        "mw02.casalemedia.com": {
+            "included_at_epoch": 1594451052.938326,
+            "included_at_iso": "2020-07-11T07:04:12.938326",
+            "last_retested_at_epoch": 1594451052.938326,
+            "last_retested_at_iso": "2020-07-11T07:04:12.938326",
+            "status": "INACTIVE"
+        },
         "mybinding.btttag.com": {
             "included_at_epoch": 1592291205.149327,
             "included_at_iso": "2020-06-16T07:06:45.149327",
@@ -838,6 +1258,13 @@
             "included_at_iso": "2020-06-16T07:06:45.270405",
             "last_retested_at_epoch": 1592291205.270405,
             "last_retested_at_iso": "2020-06-16T07:06:45.270405",
+            "status": "INACTIVE"
+        },
+        "net-am1.casalemedia.com": {
+            "included_at_epoch": 1594451052.980856,
+            "included_at_iso": "2020-07-11T07:04:12.980856",
+            "last_retested_at_epoch": 1594451052.980856,
+            "last_retested_at_iso": "2020-07-11T07:04:12.980856",
             "status": "INACTIVE"
         },
         "obs02.lax1.appnexus.com": {
@@ -889,6 +1316,13 @@
             "last_retested_at_iso": "2020-06-16T07:06:38.654849",
             "status": "INACTIVE"
         },
+        "r-ssl.casalemedia.com": {
+            "included_at_epoch": 1594451053.596567,
+            "included_at_iso": "2020-07-11T07:04:13.596567",
+            "last_retested_at_epoch": 1594451053.596567,
+            "last_retested_at_iso": "2020-07-11T07:04:13.596567",
+            "status": "INACTIVE"
+        },
         "rc2.tr.blismedia.com": {
             "included_at_epoch": 1592291195.696645,
             "included_at_iso": "2020-06-16T07:06:35.696645",
@@ -915,6 +1349,41 @@
             "included_at_iso": "2020-06-16T07:06:31.760819",
             "last_retested_at_epoch": 1592291191.760819,
             "last_retested_at_iso": "2020-06-16T07:06:31.760819",
+            "status": "INACTIVE"
+        },
+        "rtr-am3-01-jointtransit.casalemedia.com": {
+            "included_at_epoch": 1594451053.617032,
+            "included_at_iso": "2020-07-11T07:04:13.617032",
+            "last_retested_at_epoch": 1594451053.617032,
+            "last_retested_at_iso": "2020-07-11T07:04:13.617032",
+            "status": "INACTIVE"
+        },
+        "rtr-am3-02-jointtransit.casalemedia.com": {
+            "included_at_epoch": 1594451053.638334,
+            "included_at_iso": "2020-07-11T07:04:13.638334",
+            "last_retested_at_epoch": 1594451053.638334,
+            "last_retested_at_iso": "2020-07-11T07:04:13.638334",
+            "status": "INACTIVE"
+        },
+        "rtr-dc3-01a-gtt.casalemedia.com": {
+            "included_at_epoch": 1594451053.659109,
+            "included_at_iso": "2020-07-11T07:04:13.659109",
+            "last_retested_at_epoch": 1594451053.659109,
+            "last_retested_at_iso": "2020-07-11T07:04:13.659109",
+            "status": "INACTIVE"
+        },
+        "rtr-dc3-01b-gtt.casalemedia.com": {
+            "included_at_epoch": 1594451053.680499,
+            "included_at_iso": "2020-07-11T07:04:13.680499",
+            "last_retested_at_epoch": 1594451053.680499,
+            "last_retested_at_iso": "2020-07-11T07:04:13.680499",
+            "status": "INACTIVE"
+        },
+        "rtr-fr4-01-level3.casalemedia.com": {
+            "included_at_epoch": 1594451053.701914,
+            "included_at_iso": "2020-07-11T07:04:13.701914",
+            "last_retested_at_epoch": 1594451053.701914,
+            "last_retested_at_iso": "2020-07-11T07:04:13.701914",
             "status": "INACTIVE"
         },
         "rvca.btttag.com": {
@@ -1209,6 +1678,13 @@
             "included_at_iso": "2020-06-16T07:06:25.343262",
             "last_retested_at_epoch": 1592291185.343262,
             "last_retested_at_iso": "2020-06-16T07:06:25.343262",
+            "status": "INACTIVE"
+        },
+        "www.fwcs01.casalemedia.com": {
+            "included_at_epoch": 1594451051.55313,
+            "included_at_iso": "2020-07-11T07:04:11.553130",
+            "last_retested_at_epoch": 1594451051.55313,
+            "last_retested_at_iso": "2020-07-11T07:04:11.553130",
             "status": "INACTIVE"
         },
         "www.get.brightinfo.com": {
