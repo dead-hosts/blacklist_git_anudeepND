@@ -1540,8 +1540,8 @@
         "state": "future"
     },
     "mparticle.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1656720000.0,
+        "expiration_date": "02-jul-2022",
         "state": "future"
     },
     "mtrackqwe.com": {
@@ -1550,8 +1550,8 @@
         "state": "future"
     },
     "mylifeads.info": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "nahnoji.cz": {
@@ -1597,6 +1597,11 @@
     "nexage.com": {
         "epoch": 1700265600.0,
         "expiration_date": "18-nov-2023",
+        "state": "future"
+    },
+    "nighting.info": {
+        "epoch": 1600387200.0,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "normalexchange.com": {
