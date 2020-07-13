@@ -195,8 +195,8 @@
         "state": "future"
     },
     "adsbing.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "adsflame.com": {
@@ -225,8 +225,8 @@
         "state": "future"
     },
     "adultsense.net": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "adviva.net": {
@@ -235,8 +235,8 @@
         "state": "future"
     },
     "adzfun.info": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "adzincome.in": {
@@ -337,6 +337,11 @@
     "appboy.com": {
         "epoch": 1696550400.0,
         "expiration_date": "06-oct-2023",
+        "state": "future"
+    },
+    "appfly.mobi": {
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
         "state": "future"
     },
     "appsee.com": {
