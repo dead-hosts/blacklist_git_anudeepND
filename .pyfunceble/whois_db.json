@@ -4463,8 +4463,15 @@
         "state": "future"
     },
     "wzrkt.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1661731200.0,
+        "expiration_date": "29-aug-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "x48fly.com": {
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "xdatabase.info": {
