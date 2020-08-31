@@ -450,9 +450,10 @@
         "state": "future"
     },
     "adzincome.in": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
-        "state": "past"
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
+        "server": "whois.registry.in",
+        "state": "future"
     },
     "adzmaza.in": {
         "epoch": 1600473600.0,
@@ -532,8 +533,9 @@
         "state": "future"
     },
     "allday.in.ua": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "server": "whois.ua",
         "state": "future"
     },
     "alliance4media.com": {
@@ -563,8 +565,9 @@
         "state": "future"
     },
     "anonymous-net.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "antipaucity.com": {
