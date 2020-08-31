@@ -2216,8 +2216,9 @@
         "state": "future"
     },
     "innocentwax.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "innovid.com": {
@@ -2324,8 +2325,9 @@
         "state": "future"
     },
     "jknn.net": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jsecoin.com": {
@@ -2339,13 +2341,15 @@
         "state": "future"
     },
     "jstatic.top": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "server": "whois.nic.top",
         "state": "future"
     },
     "jubna.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "justredirect25.com": {
@@ -2399,8 +2403,9 @@
         "state": "future"
     },
     "laserveradedomaina.com": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "leadlander.com": {
