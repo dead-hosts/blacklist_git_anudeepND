@@ -4218,13 +4218,15 @@
         "state": "future"
     },
     "uninstall.io": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "unknowntray.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "unusualtitle.com": {
