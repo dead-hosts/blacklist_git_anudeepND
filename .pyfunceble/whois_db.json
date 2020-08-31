@@ -1101,8 +1101,9 @@
         "state": "future"
     },
     "cherrypimps.rocks": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
+        "server": "whois.nic.rocks",
         "state": "future"
     },
     "chickensstation.com": {
@@ -1286,7 +1287,8 @@
     "cookieinfoscript.com": {
         "epoch": 1598832000.0,
         "expiration_date": "31-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "copperchickens.com": {
         "epoch": 1616284800.0,
@@ -1433,8 +1435,9 @@
         "state": "future"
     },
     "demdex.net": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "departapp.com": {
@@ -1462,7 +1465,8 @@
     "differentdesk.com": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "digiadzone.com": {
         "epoch": 1620604800.0,
@@ -1543,9 +1547,10 @@
         "state": "past"
     },
     "doubleclick3.xyz": {
-        "epoch": 1586131200.0,
-        "expiration_date": "06-apr-2020",
-        "state": "past"
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
     },
     "doubleclick5.xyz": {
         "epoch": 1586131200.0,
@@ -1612,6 +1617,7 @@
     "egopastor.biz": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
+        "server": "whois.nic.biz",
         "state": "past"
     },
     "ejyymghi.com": {
@@ -1620,8 +1626,9 @@
         "state": "future"
     },
     "elasticchange.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "elephantqueue.com": {
