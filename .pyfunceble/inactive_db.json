@@ -26628,6 +26628,13 @@
             "last_retested_at_iso": "2020-08-29T01:55:18.895300",
             "status": "INACTIVE"
         },
+        "hl-img.download.9appsinstall.com": {
+            "included_at_epoch": 1599150775.441212,
+            "included_at_iso": "2020-09-03T16:32:55.441212",
+            "last_retested_at_epoch": 1599150775.441212,
+            "last_retested_at_iso": "2020-09-03T16:32:55.441212",
+            "status": "INACTIVE"
+        },
         "hlamedia.adk2x.com": {
             "included_at_epoch": 1598893545.610897,
             "included_at_iso": "2020-08-31T17:05:45.610897",
@@ -34837,6 +34844,13 @@
             "included_at_iso": "2020-08-31T17:25:24.301546",
             "last_retested_at_epoch": 1598894724.301546,
             "last_retested_at_iso": "2020-08-31T17:25:24.301546",
+            "status": "INACTIVE"
+        },
+        "kb.sokrati.com": {
+            "included_at_epoch": 1599150784.900674,
+            "included_at_iso": "2020-09-03T16:33:04.900674",
+            "last_retested_at_epoch": 1599150784.900674,
+            "last_retested_at_iso": "2020-09-03T16:33:04.900674",
             "status": "INACTIVE"
         },
         "kd4vjeef9h.mentalist.kameleoon.com": {
