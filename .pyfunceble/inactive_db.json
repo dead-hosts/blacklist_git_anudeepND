@@ -35028,6 +35028,13 @@
             "last_retested_at_iso": "2020-08-29T02:19:30.492380",
             "status": "INACTIVE"
         },
+        "kong.impactradius.com": {
+            "included_at_epoch": 1599164589.92478,
+            "included_at_iso": "2020-09-03T20:23:09.924780",
+            "last_retested_at_epoch": 1599164589.92478,
+            "last_retested_at_iso": "2020-09-03T20:23:09.924780",
+            "status": "INACTIVE"
+        },
         "konveyer.onthe.io": {
             "included_at_epoch": 1598894727.327195,
             "included_at_iso": "2020-08-31T17:25:27.327195",
