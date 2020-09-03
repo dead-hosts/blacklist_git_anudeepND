@@ -44191,6 +44191,13 @@
             "last_retested_at_iso": "2020-08-29T02:46:19.632642",
             "status": "INACTIVE"
         },
+        "resolver.gslb.mi-idc.com": {
+            "included_at_epoch": 1599153957.491031,
+            "included_at_iso": "2020-09-03T17:25:57.491031",
+            "last_retested_at_epoch": 1599153957.491031,
+            "last_retested_at_iso": "2020-09-03T17:25:57.491031",
+            "status": "INACTIVE"
+        },
         "resource.inmobi.com": {
             "included_at_epoch": 1598898345.468144,
             "included_at_iso": "2020-08-31T18:25:45.468144",
