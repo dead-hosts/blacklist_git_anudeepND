@@ -40586,6 +40586,13 @@
             "last_retested_at_iso": "2020-08-31T18:07:40.915087",
             "status": "INACTIVE"
         },
+        "ontv.down.9apps.com": {
+            "included_at_epoch": 1599152904.770502,
+            "included_at_iso": "2020-09-03T17:08:24.770502",
+            "last_retested_at_epoch": 1599152904.770502,
+            "last_retested_at_iso": "2020-09-03T17:08:24.770502",
+            "status": "INACTIVE"
+        },
         "oodle-auto.t.domdex.com": {
             "included_at_epoch": 1598897261.153849,
             "included_at_iso": "2020-08-31T18:07:41.153849",
@@ -42516,6 +42523,13 @@
             "included_at_iso": "2020-08-31T18:08:09.137367",
             "last_retested_at_epoch": 1598897289.137367,
             "last_retested_at_iso": "2020-08-31T18:08:09.137367",
+            "status": "INACTIVE"
+        },
+        "portal.9apps.com": {
+            "included_at_epoch": 1599152916.627461,
+            "included_at_iso": "2020-09-03T17:08:36.627461",
+            "last_retested_at_epoch": 1599152916.627461,
+            "last_retested_at_iso": "2020-09-03T17:08:36.627461",
             "status": "INACTIVE"
         },
         "portal.dynamicyield.com": {
