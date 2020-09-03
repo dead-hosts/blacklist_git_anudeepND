@@ -18368,6 +18368,13 @@
             "last_retested_at_iso": "2020-08-31T16:28:56.101899",
             "status": "INACTIVE"
         },
+        "cue7ven.g2afse.com": {
+            "included_at_epoch": 1599162753.685599,
+            "included_at_iso": "2020-09-03T19:52:33.685599",
+            "last_retested_at_epoch": 1599162753.685599,
+            "last_retested_at_iso": "2020-09-03T19:52:33.685599",
+            "status": "INACTIVE"
+        },
         "curation.permutive.com": {
             "included_at_epoch": 1598891336.449344,
             "included_at_iso": "2020-08-31T16:28:56.449344",
@@ -60436,6 +60443,13 @@
             "included_at_iso": "2020-08-31T19:21:37.206622",
             "last_retested_at_epoch": 1598901697.206622,
             "last_retested_at_iso": "2020-08-31T19:21:37.206622",
+            "status": "INACTIVE"
+        },
+        "yumore.g2afse.com": {
+            "included_at_epoch": 1599162756.481638,
+            "included_at_iso": "2020-09-03T19:52:36.481638",
+            "last_retested_at_epoch": 1599162756.481638,
+            "last_retested_at_iso": "2020-09-03T19:52:36.481638",
             "status": "INACTIVE"
         },
         "yunyi.talk.igexin.com": {
