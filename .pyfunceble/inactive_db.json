@@ -13426,6 +13426,13 @@
             "last_retested_at_iso": "2020-08-29T01:05:27.742037",
             "status": "INACTIVE"
         },
+        "bidder.vrtzads.com": {
+            "included_at_epoch": 1599420158.101352,
+            "included_at_iso": "2020-09-06T19:22:38.101352",
+            "last_retested_at_epoch": 1599420158.101352,
+            "last_retested_at_iso": "2020-09-06T19:22:38.101352",
+            "status": "INACTIVE"
+        },
         "bidder2.criteo.com": {
             "included_at_epoch": 1598890274.907578,
             "included_at_iso": "2020-08-31T16:11:14.907578",
@@ -13438,6 +13445,13 @@
             "included_at_iso": "2020-08-31T16:11:15.333860",
             "last_retested_at_epoch": 1598890275.33386,
             "last_retested_at_iso": "2020-08-31T16:11:15.333860",
+            "status": "INACTIVE"
+        },
+        "bidwin.vrtzads.com": {
+            "included_at_epoch": 1599420158.249132,
+            "included_at_iso": "2020-09-06T19:22:38.249132",
+            "last_retested_at_epoch": 1599420158.249132,
+            "last_retested_at_iso": "2020-09-06T19:22:38.249132",
             "status": "INACTIVE"
         },
         "big.g.doubleclick.net": {
@@ -17673,6 +17687,13 @@
             "included_at_iso": "2020-08-31T16:28:51.248440",
             "last_retested_at_epoch": 1598891331.24844,
             "last_retested_at_iso": "2020-08-31T16:28:51.248440",
+            "status": "INACTIVE"
+        },
+        "conv.vrtzads.com": {
+            "included_at_epoch": 1599420158.378703,
+            "included_at_iso": "2020-09-06T19:22:38.378703",
+            "last_retested_at_epoch": 1599420158.378703,
+            "last_retested_at_iso": "2020-09-06T19:22:38.378703",
             "status": "INACTIVE"
         },
         "convdb.buysellads.com": {
@@ -44471,6 +44492,13 @@
             "last_retested_at_iso": "2020-08-31T18:25:49.484342",
             "status": "INACTIVE"
         },
+        "ron.vrtzads.com": {
+            "included_at_epoch": 1599420158.583631,
+            "included_at_iso": "2020-09-06T19:22:38.583631",
+            "last_retested_at_epoch": 1599420158.583631,
+            "last_retested_at_iso": "2020-09-06T19:22:38.583631",
+            "status": "INACTIVE"
+        },
         "ronsearch.adk2x.com": {
             "included_at_epoch": 1598898349.646407,
             "included_at_iso": "2020-08-31T18:25:49.646407",
@@ -56656,6 +56684,13 @@
             "included_at_iso": "2020-08-29T01:05:42.570461",
             "last_retested_at_epoch": 1598663142.570461,
             "last_retested_at_iso": "2020-08-29T01:05:42.570461",
+            "status": "INACTIVE"
+        },
+        "www.afco2go.com": {
+            "included_at_epoch": 1599420138.318754,
+            "included_at_iso": "2020-09-06T19:22:18.318754",
+            "last_retested_at_epoch": 1599420138.318754,
+            "last_retested_at_iso": "2020-09-06T19:22:18.318754",
             "status": "INACTIVE"
         },
         "www.agafurretor.com": {
