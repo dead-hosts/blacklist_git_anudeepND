@@ -21161,6 +21161,13 @@
             "last_retested_at_iso": "2020-08-31T16:29:16.785169",
             "status": "INACTIVE"
         },
+        "dsgtab.btttag.com": {
+            "included_at_epoch": 1599419066.42434,
+            "included_at_iso": "2020-09-06T19:04:26.424340",
+            "last_retested_at_epoch": 1599419066.42434,
+            "last_retested_at_iso": "2020-09-06T19:04:26.424340",
+            "status": "INACTIVE"
+        },
         "dsh.tugae2.com": {
             "included_at_epoch": 1598891357.113541,
             "included_at_iso": "2020-08-31T16:29:17.113541",
