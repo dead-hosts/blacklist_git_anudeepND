@@ -1152,8 +1152,8 @@
         "state": "future"
     },
     "click-cpa.net": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1631059200.0,
+        "expiration_date": "08-sep-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -3792,6 +3792,12 @@
         "server": "whois.nic.online",
         "state": "future"
     },
+    "special-promotions.online": {
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "server": "whois.nic.online",
+        "state": "future"
+    },
     "speed-open2.com": {
         "epoch": 1628553600.0,
         "expiration_date": "10-aug-2021",
@@ -4595,8 +4601,8 @@
         "state": "future"
     },
     "zidtech.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },

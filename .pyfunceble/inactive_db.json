@@ -10647,6 +10647,13 @@
             "last_retested_at_iso": "2020-08-31T15:40:18.722277",
             "status": "INACTIVE"
         },
+        "api.recotap.com": {
+            "included_at_epoch": 1599678665.633703,
+            "included_at_iso": "2020-09-09T19:11:05.633703",
+            "last_retested_at_epoch": 1599678665.633703,
+            "last_retested_at_iso": "2020-09-09T19:11:05.633703",
+            "status": "INACTIVE"
+        },
         "api.reports.advertising.com": {
             "included_at_epoch": 1598888418.770736,
             "included_at_iso": "2020-08-31T15:40:18.770736",
@@ -20095,6 +20102,13 @@
             "included_at_iso": "2020-08-31T16:29:09.014812",
             "last_retested_at_epoch": 1598891349.014812,
             "last_retested_at_iso": "2020-08-31T16:29:09.014812",
+            "status": "INACTIVE"
+        },
+        "delivery.zidtech.com": {
+            "included_at_epoch": 1599678664.999939,
+            "included_at_iso": "2020-09-09T19:11:04.999939",
+            "last_retested_at_epoch": 1599678664.999939,
+            "last_retested_at_iso": "2020-09-09T19:11:04.999939",
             "status": "INACTIVE"
         },
         "delivery01.ad4game.com": {
