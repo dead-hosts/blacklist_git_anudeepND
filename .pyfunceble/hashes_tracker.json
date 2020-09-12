@@ -1,13 +1,13 @@
 {
     "/home/travis/build/dead-hosts/blacklist_git_anudeepND/domains.list": {
         "base": {
-            "datetime_iso": "2020-09-06T15:14:58.759770",
-            "hash": "765327f029f786a408f01b5edba99a5f813895cdc16c041d9beeebdd"
+            "datetime_iso": "2020-09-12T15:11:16.784873",
+            "hash": "f347b96a1ac3c434f25094ba862f44beffd18e66a6fa12902d1505ce"
         },
         "latest": {
-            "datetime_iso": "2020-09-09T20:24:50.260727",
-            "hash": "765327f029f786a408f01b5edba99a5f813895cdc16c041d9beeebdd"
+            "datetime_iso": "2020-09-12T15:11:16.784873",
+            "hash": "f347b96a1ac3c434f25094ba862f44beffd18e66a6fa12902d1505ce"
         },
-        "position": 0
+        "position": 92740
     }
 }

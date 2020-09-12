@@ -6545,6 +6545,13 @@
             "last_retested_at_iso": "2020-08-29T02:18:49.724054",
             "status": "INACTIVE"
         },
+        "ad.adapter.kaffnet.com": {
+            "included_at_epoch": 1599924381.614803,
+            "included_at_iso": "2020-09-12T15:26:21.614803",
+            "last_retested_at_epoch": 1599924381.614803,
+            "last_retested_at_iso": "2020-09-12T15:26:21.614803",
+            "status": "INACTIVE"
+        },
         "ad.adk2x.com": {
             "included_at_epoch": 1598888398.178278,
             "included_at_iso": "2020-08-31T15:39:58.178278",
@@ -6564,6 +6571,20 @@
             "included_at_iso": "2020-08-31T15:39:58.255395",
             "last_retested_at_epoch": 1598888398.255395,
             "last_retested_at_iso": "2020-08-31T15:39:58.255395",
+            "status": "INACTIVE"
+        },
+        "ad.api.kaffnet.com": {
+            "included_at_epoch": 1599924381.766963,
+            "included_at_iso": "2020-09-12T15:26:21.766963",
+            "last_retested_at_epoch": 1599924381.766963,
+            "last_retested_at_iso": "2020-09-12T15:26:21.766963",
+            "status": "INACTIVE"
+        },
+        "ad.click.kaffnet.com": {
+            "included_at_epoch": 1599924381.991851,
+            "included_at_iso": "2020-09-12T15:26:21.991851",
+            "last_retested_at_epoch": 1599924381.991851,
+            "last_retested_at_iso": "2020-09-12T15:26:21.991851",
             "status": "INACTIVE"
         },
         "ad.crwdcntrl.com": {
