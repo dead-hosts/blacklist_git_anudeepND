@@ -45787,6 +45787,13 @@
             "last_retested_at_iso": "2020-08-31T18:26:08.017483",
             "status": "INACTIVE"
         },
+        "sdk.api.kaffnet.com": {
+            "included_at_epoch": 1599932145.958492,
+            "included_at_iso": "2020-09-12T17:35:45.958492",
+            "last_retested_at_epoch": 1599932145.958492,
+            "last_retested_at_iso": "2020-09-12T17:35:45.958492",
+            "status": "INACTIVE"
+        },
         "sdk.batmobi.net": {
             "included_at_epoch": 1598898368.212265,
             "included_at_iso": "2020-08-31T18:26:08.212265",
@@ -48125,6 +48132,13 @@
             "last_retested_at_iso": "2020-08-31T18:26:33.561148",
             "status": "INACTIVE"
         },
+        "social.sokrati.com": {
+            "included_at_epoch": 1599932152.989769,
+            "included_at_iso": "2020-09-12T17:35:52.989769",
+            "last_retested_at_epoch": 1599932152.989769,
+            "last_retested_at_iso": "2020-09-12T17:35:52.989769",
+            "status": "INACTIVE"
+        },
         "socialholic-d.openx.net": {
             "included_at_epoch": 1598898393.244194,
             "included_at_iso": "2020-08-31T18:26:33.244194",
@@ -48277,6 +48291,13 @@
             "included_at_iso": "2020-08-31T18:26:35.596630",
             "last_retested_at_epoch": 1598898395.59663,
             "last_retested_at_iso": "2020-08-31T18:26:35.596630",
+            "status": "INACTIVE"
+        },
+        "sonarqube.stickyadstv.com": {
+            "included_at_epoch": 1599932153.423208,
+            "included_at_iso": "2020-09-12T17:35:53.423208",
+            "last_retested_at_epoch": 1599932153.423208,
+            "last_retested_at_iso": "2020-09-12T17:35:53.423208",
             "status": "INACTIVE"
         },
         "sonic-dev.supersonicads.com": {
@@ -49068,6 +49089,13 @@
             "included_at_iso": "2020-08-29T02:19:16.311449",
             "last_retested_at_epoch": 1598667556.311449,
             "last_retested_at_iso": "2020-08-29T02:19:16.311449",
+            "status": "INACTIVE"
+        },
+        "ssp-service.vertamedia.com": {
+            "included_at_epoch": 1599932163.254573,
+            "included_at_iso": "2020-09-12T17:36:03.254573",
+            "last_retested_at_epoch": 1599932163.254573,
+            "last_retested_at_iso": "2020-09-12T17:36:03.254573",
             "status": "INACTIVE"
         },
         "ssp.ad.xiaomi.com": {
