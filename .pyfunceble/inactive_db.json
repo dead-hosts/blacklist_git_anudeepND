@@ -19243,6 +19243,13 @@
             "last_retested_at_iso": "2020-08-31T16:29:02.790566",
             "status": "INACTIVE"
         },
+        "data.infreewifi.com": {
+            "included_at_epoch": 1599926450.619347,
+            "included_at_iso": "2020-09-12T16:00:50.619347",
+            "last_retested_at_epoch": 1599926450.619347,
+            "last_retested_at_iso": "2020-09-12T16:00:50.619347",
+            "status": "INACTIVE"
+        },
         "data101.adlooxtracking.com": {
             "included_at_epoch": 1598891339.841277,
             "included_at_iso": "2020-08-31T16:28:59.841277",
