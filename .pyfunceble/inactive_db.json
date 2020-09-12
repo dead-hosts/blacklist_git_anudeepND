@@ -42014,6 +42014,20 @@
             "last_retested_at_iso": "2020-08-29T02:19:14.506000",
             "status": "INACTIVE"
         },
+        "pc1-collect-us-east-1.tealiumiq.com": {
+            "included_at_epoch": 1599931104.838583,
+            "included_at_iso": "2020-09-12T17:18:24.838583",
+            "last_retested_at_epoch": 1599931104.838583,
+            "last_retested_at_iso": "2020-09-12T17:18:24.838583",
+            "status": "INACTIVE"
+        },
+        "pc1-collect.tealiumiq.com": {
+            "included_at_epoch": 1599931104.961708,
+            "included_at_iso": "2020-09-12T17:18:24.961708",
+            "last_retested_at_epoch": 1599931104.961708,
+            "last_retested_at_iso": "2020-09-12T17:18:24.961708",
+            "status": "INACTIVE"
+        },
         "pc1-visitor-service-us-east-1.tealiumiq.com": {
             "included_at_epoch": 1598897275.384777,
             "included_at_iso": "2020-08-31T18:07:55.384777",
