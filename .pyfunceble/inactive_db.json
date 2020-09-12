@@ -10542,6 +10542,13 @@
             "last_retested_at_iso": "2020-08-31T15:40:18.075880",
             "status": "INACTIVE"
         },
+        "api.infreewifi.com": {
+            "included_at_epoch": 1599925409.71503,
+            "included_at_iso": "2020-09-12T15:43:29.715030",
+            "last_retested_at_epoch": 1599925409.71503,
+            "last_retested_at_iso": "2020-09-12T15:43:29.715030",
+            "status": "INACTIVE"
+        },
         "api.intel.dynamicyield.com": {
             "included_at_epoch": 1598666148.566875,
             "included_at_iso": "2020-08-29T01:55:48.566875",
