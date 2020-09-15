@@ -692,7 +692,8 @@
     "arrkii.co": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
-        "state": "future"
+        "server": "whois.nic.co",
+        "state": "past"
     },
     "aservices.party": {
         "epoch": 1617753600.0,
