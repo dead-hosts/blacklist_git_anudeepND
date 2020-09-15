@@ -52773,6 +52773,13 @@
             "last_retested_at_iso": "2020-08-31T19:22:28.849963",
             "status": "INACTIVE"
         },
+        "uid.ksosoft.com": {
+            "included_at_epoch": 1600193140.712833,
+            "included_at_iso": "2020-09-15T18:05:40.712833",
+            "last_retested_at_epoch": 1600193140.712833,
+            "last_retested_at_iso": "2020-09-15T18:05:40.712833",
+            "status": "INACTIVE"
+        },
         "uiservices.adtech.de": {
             "included_at_epoch": 1598900534.734441,
             "included_at_iso": "2020-08-31T19:02:14.734441",
