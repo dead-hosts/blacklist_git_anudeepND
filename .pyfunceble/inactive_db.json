@@ -21371,6 +21371,13 @@
             "last_retested_at_iso": "2020-08-31T16:29:18.125371",
             "status": "INACTIVE"
         },
+        "dtm.advertising.com": {
+            "included_at_epoch": 1600197399.781032,
+            "included_at_iso": "2020-09-15T19:16:39.781032",
+            "last_retested_at_epoch": 1600197399.781032,
+            "last_retested_at_iso": "2020-09-15T19:16:39.781032",
+            "status": "INACTIVE"
+        },
         "dtord01qar01d.dotomi.com": {
             "included_at_epoch": 1598891358.207681,
             "included_at_iso": "2020-08-31T16:29:18.207681",
