@@ -41167,6 +41167,13 @@
             "last_retested_at_iso": "2020-08-31T19:40:52.429825",
             "status": "INACTIVE"
         },
+        "oscar118.rtb.appier.net": {
+            "included_at_epoch": 1600195269.532,
+            "included_at_iso": "2020-09-15T18:41:09.532000",
+            "last_retested_at_epoch": 1600195269.532,
+            "last_retested_at_iso": "2020-09-15T18:41:09.532000",
+            "status": "INACTIVE"
+        },
         "oscar14.rtb.appier.net": {
             "included_at_epoch": 1598902852.785385,
             "included_at_iso": "2020-08-31T19:40:52.785385",
@@ -41326,6 +41333,13 @@
             "included_at_iso": "2020-08-31T19:40:55.851377",
             "last_retested_at_epoch": 1598902855.851377,
             "last_retested_at_iso": "2020-08-31T19:40:55.851377",
+            "status": "INACTIVE"
+        },
+        "oscar55.rtb.appier.net": {
+            "included_at_epoch": 1600195269.94144,
+            "included_at_iso": "2020-09-15T18:41:09.941440",
+            "last_retested_at_epoch": 1600195269.94144,
+            "last_retested_at_iso": "2020-09-15T18:41:09.941440",
             "status": "INACTIVE"
         },
         "oscar58.rtb.appier.net": {
