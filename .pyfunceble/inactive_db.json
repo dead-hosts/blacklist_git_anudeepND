@@ -17220,6 +17220,13 @@
             "last_retested_at_iso": "2020-08-31T16:28:47.176463",
             "status": "INACTIVE"
         },
+        "cms.tiscali.cz": {
+            "included_at_epoch": 1600185767.541152,
+            "included_at_iso": "2020-09-15T16:02:47.541152",
+            "last_retested_at_epoch": 1600185767.541152,
+            "last_retested_at_iso": "2020-09-15T16:02:47.541152",
+            "status": "INACTIVE"
+        },
         "cmt.el-murid.smi2.ru": {
             "included_at_epoch": 1598891327.276048,
             "included_at_iso": "2020-08-31T16:28:47.276048",
