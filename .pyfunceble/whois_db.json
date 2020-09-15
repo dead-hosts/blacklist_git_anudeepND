@@ -221,6 +221,18 @@
         "expiration_date": "22-apr-2021",
         "state": "future"
     },
+    "adcanopus.com": {
+        "epoch": 1719792000.0,
+        "expiration_date": "01-jul-2024",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "addapptr.com": {
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "adexchangecloud.com": {
         "epoch": 1619481600.0,
         "expiration_date": "27-apr-2021",
@@ -370,6 +382,12 @@
     "adsflame.com": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "adskeeper.co.uk": {
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "adsmanager.net": {
@@ -2729,6 +2747,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "moglistat.com": {
+        "epoch": 1663459200.0,
+        "expiration_date": "18-sep-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "monditomasks.co": {
         "epoch": 1607126400.0,
         "expiration_date": "05-dec-2020",
@@ -3683,6 +3707,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "servedby-buysellads.com": {
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "serverbid.com": {
         "epoch": 1614816000.0,
         "expiration_date": "04-mar-2021",
@@ -4112,6 +4142,12 @@
     "tremember.info": {
         "epoch": 1614556800.0,
         "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "tremorhub.com": {
+        "epoch": 1652140800.0,
+        "expiration_date": "10-may-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trfpump.com": {
