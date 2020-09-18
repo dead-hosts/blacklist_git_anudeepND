@@ -40649,6 +40649,13 @@
             "last_retested_at_iso": "2020-08-31T18:07:35.992882",
             "status": "INACTIVE"
         },
+        "obs01.lax1.appnexus.com": {
+            "included_at_epoch": 1600454551.357555,
+            "included_at_iso": "2020-09-18T18:42:31.357555",
+            "last_retested_at_epoch": 1600454551.357555,
+            "last_retested_at_iso": "2020-09-18T18:42:31.357555",
+            "status": "INACTIVE"
+        },
         "obs02.lax1.appnexus.com": {
             "included_at_epoch": 1598902886.622645,
             "included_at_iso": "2020-08-31T19:41:26.622645",
