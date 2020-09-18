@@ -2915,7 +2915,8 @@
     "nighting.info": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
-        "state": "future"
+        "server": "whois.afilias.net",
+        "state": "past"
     },
     "normalexchange.com": {
         "epoch": 1624233600.0,
