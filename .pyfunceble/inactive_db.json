@@ -48923,6 +48923,13 @@
             "last_retested_at_iso": "2020-08-31T20:06:36.154059",
             "status": "INACTIVE"
         },
+        "speroll.g2afse.com": {
+            "included_at_epoch": 1600458801.411779,
+            "included_at_iso": "2020-09-18T19:53:21.411779",
+            "last_retested_at_epoch": 1600458801.411779,
+            "last_retested_at_iso": "2020-09-18T19:53:21.411779",
+            "status": "INACTIVE"
+        },
         "spherecontent.outbrain.com": {
             "included_at_epoch": 1598899429.924256,
             "included_at_iso": "2020-08-31T18:43:49.924256",
