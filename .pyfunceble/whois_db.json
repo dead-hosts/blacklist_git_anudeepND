@@ -43,6 +43,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "206ads.com": {
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "2o7.net": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
@@ -395,6 +401,12 @@
         "expiration_date": "16-oct-2020",
         "state": "future"
     },
+    "adspeed.net": {
+        "epoch": 1807920000.0,
+        "expiration_date": "17-apr-2027",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "adstacks.in": {
         "epoch": 1634342400.0,
         "expiration_date": "16-oct-2021",
@@ -525,6 +537,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "agentanalytics.com": {
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "agreeableprice.com": {
         "epoch": 1623024000.0,
         "expiration_date": "07-jun-2021",
@@ -576,6 +594,12 @@
     "amplitude.com": {
         "epoch": 1641772800.0,
         "expiration_date": "10-jan-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "analyticsindiamag.com": {
+        "epoch": 1653004800.0,
+        "expiration_date": "20-may-2022",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -978,6 +1002,12 @@
     "boredcrown.com": {
         "epoch": 1627948800.0,
         "expiration_date": "03-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "bounceexchange.com": {
+        "epoch": 1806710400.0,
+        "expiration_date": "03-apr-2027",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -1386,6 +1416,12 @@
         "expiration_date": "19-dec-2020",
         "state": "future"
     },
+    "creative-serving.com": {
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "critictruck.com": {
         "epoch": 1624060800.0,
         "expiration_date": "19-jun-2021",
@@ -1781,6 +1817,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "eyeviewads.com": {
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "eztv.com": {
         "epoch": 1624838400.0,
         "expiration_date": "28-jun-2021",
@@ -2126,9 +2168,21 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "helveticads.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "hexagon-analytics.com": {
         "epoch": 1665446400.0,
         "expiration_date": "11-oct-2022",
+        "state": "future"
+    },
+    "heytapmobile.com": {
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hfc195b.com": {
@@ -2145,6 +2199,12 @@
     "hifi7.download": {
         "epoch": 1673654400.0,
         "expiration_date": "14-jan-2023",
+        "state": "future"
+    },
+    "hiido.com": {
+        "epoch": 1644710400.0,
+        "expiration_date": "13-feb-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hilariouszinc.com": {
@@ -2402,6 +2462,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "justpremium.com": {
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "justredirect25.com": {
         "epoch": 1622937600.0,
         "expiration_date": "06-jun-2021",
@@ -2450,6 +2516,12 @@
     "krxd.net": {
         "epoch": 1621296000.0,
         "expiration_date": "18-may-2021",
+        "state": "future"
+    },
+    "ksapisrv.com": {
+        "epoch": 1736035200.0,
+        "expiration_date": "05-jan-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "laserveradedomaina.com": {
