@@ -38654,6 +38654,13 @@
             "last_retested_at_iso": "2020-08-31T19:41:40.791594",
             "status": "INACTIVE"
         },
+        "mobile-service.segment.com": {
+            "included_at_epoch": 1600707411.356541,
+            "included_at_iso": "2020-09-21T16:56:51.356541",
+            "last_retested_at_epoch": 1600707411.356541,
+            "last_retested_at_iso": "2020-09-21T16:56:51.356541",
+            "status": "INACTIVE"
+        },
         "mobile.ace.advertising.com": {
             "included_at_epoch": 1598896007.12188,
             "included_at_iso": "2020-08-31T17:46:47.121880",
