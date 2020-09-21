@@ -26586,6 +26586,13 @@
             "last_retested_at_iso": "2020-08-31T16:47:54.849633",
             "status": "INACTIVE"
         },
+        "h.hello-game.cn": {
+            "included_at_epoch": 1600706367.421048,
+            "included_at_iso": "2020-09-21T16:39:27.421048",
+            "last_retested_at_epoch": 1600706367.421048,
+            "last_retested_at_iso": "2020-09-21T16:39:27.421048",
+            "status": "INACTIVE"
+        },
         "h12srv.adk2x.com": {
             "included_at_epoch": 1598892473.181331,
             "included_at_iso": "2020-08-31T16:47:53.181331",
