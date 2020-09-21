@@ -14049,6 +14049,13 @@
             "last_retested_at_iso": "2020-08-31T19:40:33.749361",
             "status": "INACTIVE"
         },
+        "botnet.xjtu.edu.cn": {
+            "included_at_epoch": 1600719014.851459,
+            "included_at_iso": "2020-09-21T20:10:14.851459",
+            "last_retested_at_epoch": 1600719014.851459,
+            "last_retested_at_iso": "2020-09-21T20:10:14.851459",
+            "status": "INACTIVE"
+        },
         "bottle.onthe.io": {
             "included_at_epoch": 1598890277.590401,
             "included_at_iso": "2020-08-31T16:11:17.590401",
