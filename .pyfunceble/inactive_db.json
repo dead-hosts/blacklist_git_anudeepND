@@ -44870,6 +44870,13 @@
             "last_retested_at_iso": "2020-08-31T18:25:48.985768",
             "status": "INACTIVE"
         },
+        "rock.webmine.pro": {
+            "included_at_epoch": 1600709502.918384,
+            "included_at_iso": "2020-09-21T17:31:42.918384",
+            "last_retested_at_epoch": 1600709502.918384,
+            "last_retested_at_iso": "2020-09-21T17:31:42.918384",
+            "status": "INACTIVE"
+        },
         "rocketchat.adriver.ru": {
             "included_at_epoch": 1598898349.075003,
             "included_at_iso": "2020-08-31T18:25:49.075003",
