@@ -1913,7 +1913,8 @@
     "funnymp4.net": {
         "epoch": 1600646400.0,
         "expiration_date": "21-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "futuristicfairies.com": {
         "epoch": 1617408000.0,
