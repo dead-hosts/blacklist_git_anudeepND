@@ -10689,6 +10689,13 @@
             "last_retested_at_iso": "2020-08-31T15:40:17.547062",
             "status": "INACTIVE"
         },
+        "api.data.beautyplus.com": {
+            "included_at_epoch": 1600963902.987504,
+            "included_at_iso": "2020-09-24T16:11:42.987504",
+            "last_retested_at_epoch": 1600963902.987504,
+            "last_retested_at_iso": "2020-09-24T16:11:42.987504",
+            "status": "INACTIVE"
+        },
         "api.dsp.batmobi.net": {
             "included_at_epoch": 1598888417.778034,
             "included_at_iso": "2020-08-31T15:40:17.778034",
