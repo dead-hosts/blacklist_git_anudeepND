@@ -22323,6 +22323,13 @@
             "last_retested_at_iso": "2020-08-31T16:29:23.360058",
             "status": "INACTIVE"
         },
+        "egopastor.biz": {
+            "included_at_epoch": 1600966202.965758,
+            "included_at_iso": "2020-09-24T16:50:02.965758",
+            "last_retested_at_epoch": 1600966202.965758,
+            "last_retested_at_iso": "2020-09-24T16:50:02.965758",
+            "status": "INACTIVE"
+        },
         "egrishkovets.smi2.ru": {
             "included_at_epoch": 1598891363.516487,
             "included_at_iso": "2020-08-31T16:29:23.516487",
