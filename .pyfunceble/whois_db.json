@@ -1824,6 +1824,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "eyzu80g9xcxa.com": {
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "eztv.com": {
         "epoch": 1624838400.0,
         "expiration_date": "28-jun-2021",
@@ -3165,6 +3171,12 @@
         "expiration_date": "10-sep-2024",
         "state": "future"
     },
+    "online-metrix.net": {
+        "epoch": 1634342400.0,
+        "expiration_date": "16-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "organicalews.info": {
         "epoch": 1629590400.0,
         "expiration_date": "22-aug-2021",
@@ -3626,6 +3638,12 @@
     "receptiveink.com": {
         "epoch": 1611273600.0,
         "expiration_date": "22-jan-2021",
+        "state": "future"
+    },
+    "redsheriff.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "redtrack.io": {
