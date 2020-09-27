@@ -3301,8 +3301,9 @@
         "state": "future"
     },
     "plista.com": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pocketmath-cdn.com": {
