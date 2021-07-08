@@ -15019,7 +15019,7 @@ ssl.d1.sc.omtrdc.net                                                            
 ssl.demandbase.com                                                                                   ACTIVE      DNSLOOKUP  Unknown           403        AVAILABILITY 
 ssl.edge.quantserve.com                                                                              ACTIVE      DNSLOOKUP  Unknown           301        AVAILABILITY 
 sslfq.voluumtrk.com                                                                                  ACTIVE      DNSLOOKUP  Unknown           404        AVAILABILITY 
-ssl.geoplugin.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           200        AVAILABILITY 
+ssl.geoplugin.net                                                                                    ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 ssl.google-analytics.com                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
 trk.vidible.tv                                                                                       ACTIVE      DNSLOOKUP  Unknown           200        AVAILABILITY 
 ssl-munchkin.marketo.net                                                                             ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
@@ -15043,7 +15043,3 @@ ssp.vertamedia.com                                                              
 ssp.videoplaza.tv                                                                                    ACTIVE      DNSLOOKUP  Unknown           404        AVAILABILITY 
 ssp.zryydi.com                                                                                       ACTIVE      DNSLOOKUP  Unknown           530        AVAILABILITY 
 sss.cdn.onthe.io                                                                                     ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
-sss.z.moatads.com                                                                                    ACTIVE      DNSLOOKUP  Unknown           400        AVAILABILITY 
-sstatic1.histats.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           200        AVAILABILITY 
-sstats.condenast.com                                                                                 ACTIVE      DNSLOOKUP  Unknown           301        AVAILABILITY 
-ss.trafficjunky.net                                                                                  ACTIVE      DNSLOOKUP  Unknown           Unknown    AVAILABILITY 
