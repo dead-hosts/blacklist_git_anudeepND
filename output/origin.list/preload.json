@@ -1,15 +1,17 @@
-{
-    "abs_source": "/home/runner/work/blacklist_git_anudeepND/blacklist_git_anudeepND/origin.list",
-    "checker_type": "AVAILABILITY",
-    "destination": "origin.list",
-    "hash": "166024a727e535371f75bc5a25e68bfee27213e5ad145d8ac9bbfc27",
-    "line_number": 42295,
-    "output_dir": "/home/runner/work/blacklist_git_anudeepND/blacklist_git_anudeepND/output/origin.list",
-    "previous_hash": "166024a727e535371f75bc5a25e68bfee27213e5ad145d8ac9bbfc27",
-    "rel_source": "origin.list",
-    "session_id": "45dd6e7e1933cb240c267e1f",
-    "source": "origin.list",
-    "subject": "origin.list",
-    "subject_type": "domain",
-    "type": "file"
-}
+[
+    {
+        "abs_source": "/home/runner/work/blacklist_git_anudeepND/blacklist_git_anudeepND/origin.list",
+        "checker_type": "AVAILABILITY",
+        "destination": "origin.list",
+        "hash": "166024a727e535371f75bc5a25e68bfee27213e5ad145d8ac9bbfc27",
+        "line_number": 42295,
+        "output_dir": "/home/runner/work/blacklist_git_anudeepND/blacklist_git_anudeepND/output/origin.list",
+        "previous_hash": "166024a727e535371f75bc5a25e68bfee27213e5ad145d8ac9bbfc27",
+        "rel_source": "origin.list",
+        "session_id": "45dd6e7e1933cb240c267e1f",
+        "source": "origin.list",
+        "subject": "origin.list",
+        "subject_type": "domain",
+        "type": "file"
+    }
+]
