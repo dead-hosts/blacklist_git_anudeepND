@@ -8573,3 +8573,8 @@ ec2eu-de-3-vpc-20160422.deliveryengine.adswizz.com                              
 ec2eu-de-lb2-c3.deliveryengine.adswizz.com                                                           INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
 ma.deliveryengine.adswizz.com                                                                        INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
 spotify.deliveryengine.adswizz.com                                                                   INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+hlsmaster1.adswizz.com                                                                               INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+cdn.hlsmaster1.adswizz.com                                                                           INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+ma.adswizz.com                                                                                       INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+data-collector.streaming.adswizz.com                                                                 INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
+api.webchunker.streaming.adswizz.com                                                                 INACTIVE    STDLOOKUP  Unknown           Unknown    AVAILABILITY 
