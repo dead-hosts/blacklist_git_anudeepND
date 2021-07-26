@@ -1397,6 +1397,7 @@
         "uk.com",
         "unusualperson.com",
         "us-1.evennode.com",
+        "us-2.evennode.com",
         "us-3.evennode.com",
         "us-4.evennode.com",
         "us-east-1.amazonaws.com",
@@ -1491,7 +1492,6 @@
         "e4.cz",
         "flt.cloud.muni.cz",
         "realm.cz",
-        "us-2.evennode.com",
         "usr.cloud.muni.cz"
     ],
     "de": [
@@ -2678,7 +2678,6 @@
         "vs.it",
         "vt.it",
         "vv.it",
-        "xn--1lqs03n.jp",
         "xn--balsan-sdtirol-nsb.it",
         "xn--bozen-sdtirol-2ob.it",
         "xn--bulsan-sdtirol-nsb.it",
@@ -4735,6 +4734,9 @@
         "cyon.link",
         "dweb.link",
         "mypep.link"
+    ],
+    "live": [
+        "hlx.live"
     ],
     "lk": [
         "ac.lk",
@@ -6858,7 +6860,9 @@
         "under.one"
     ],
     "online": [
-        "barsy.online"
+        "barsy.online",
+        "eero-stage.online",
+        "eero.online"
     ],
     "org": [
         "accesscam.org",
@@ -7053,6 +7057,8 @@
         "sld.pa"
     ],
     "page": [
+        "hlx.page",
+        "hlx3.page",
         "magnet.page",
         "pdns.page",
         "plesk.page",
