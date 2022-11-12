@@ -6,8 +6,8 @@
     "finish_timestamp": 1610800835.681941,
     "last_download_datetime": "2020-09-28T15:51:53.189117",
     "last_download_timestamp": 1601308313.189117,
-    "latest_part_finish_datetime": "2022-10-30T18:54:45.993610",
-    "latest_part_finish_timestamp": 1667156085.99361,
+    "latest_part_finish_datetime": "2022-11-12T19:47:37.159144",
+    "latest_part_finish_timestamp": 1668282457.159144,
     "latest_part_start_datetime": "2020-09-28T15:51:53.271578",
     "latest_part_start_timestamp": 1601308313.271578,
     "live_update": true,
@@ -15,6 +15,7 @@
     "own_management": false,
     "ping": [],
     "raw_link": "https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt",
+    "repo": "blacklist_git_anudeepND/blacklist_git_anudeepND",
     "start_datetime": "2020-09-27T15:18:59.116009",
     "start_timestamp": 1601219939.116009
 }
